@@ -1,0 +1,174 @@
+{
+  "xmlId" : "8868",
+  "NOAAStudyId" : "9975",
+  "studyName" : "Ratcliff - Chilton English Double Bass - PCAB - ITRDB SWIT194",
+  "doi" : "https://doi.org/10.25921/nrf6-6897",
+  "uuid" : "bc729f31-cc9f-42c9-9199-7801592603c5",
+  "dataPublisher" : "NOAA",
+  "contactInfo" : {
+    "type" : "CONTACT INFORMATION",
+    "shortName" : "DOC/NOAA/NESDIS/NCEI",
+    "longName" : "National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce ",
+    "address" : "325 Broadway, E/NE31",
+    "city" : "Boulder",
+    "state" : "CO",
+    "postalCode" : "80305-3328",
+    "country" : "USA",
+    "dataCenterUrl" : "https://www.ncei.noaa.gov/products/paleoclimatology",
+    "email" : "paleo@noaa.gov",
+    "phone" : "828-271-4800",
+    "fax" : "303-497-6513",
+    "constraints" : "Please cite original publication, online resource, dataset and publication DOIs (where available), and date accessed when using downloaded data. If there is no publication information, please cite investigator, title, online resource, and date accessed. The appearance of external links associated with a dataset does not constitute endorsement by the Department of Commerce/National Oceanic and Atmospheric Administration of external Web sites or the information, products or services contained therein. For other than authorized activities, the Department of Commerce/NOAA does not exercise any editorial control over the information you may find at these locations. These links are provided consistent with the stated purpose of this Department of Commerce/NOAA Web site."
+  },
+  "dataType" : "TREE RING",
+  "investigators" : "Ratcliff, P.",
+  "investigatorDetails" : [ {
+    "firstName" : null,
+    "lastName" : "Ratcliff",
+    "initials" : "P.",
+    "orcId" : null
+  } ],
+  "version" : "1.0",
+  "funding" : [ ],
+  "studyNotes" : "Spruce table from a mid 19th century English double bass \n# belonging to Mr Roy Chilton, Trinity School, Croydon, Surrey U.K. \n# The front is in four pieces, two of which are adequately measurable. \n# The two central sections are from a book matched radially cut \n# spruce wedge. Those two series, 1 and 2, contain very strong \n# and representative signal resulting in highly significant \n# statistical crossdating t-values with reference chronologies, \n# the highest one being t=10.4, (t-values according to Baillie \n# and Pilcher 1973) for the mean of the two series crossdated with \n# the F. Schweingruber?s PCAB Obersaxen/Meierhof chronology from \n# central Switzerland, strongly suggesting likely wood origin.  \n# Also statistically significant cross-matches of t>4 with \n# over 500 sequences from musical instruments from various \n# parts of Europe.    \n#  NOAA Template Raw Measurements file added 2019-02-05.",
+  "onlineResourceLink" : "https://www.ncei.noaa.gov/access/paleo-search/study/9975",
+  "difMetadataLink" : "http://www1.ncdc.noaa.gov/pub/data/metadata/published/paleo/dif/xml/noaa-tree-9975.xml",
+  "isoMetadataLink" : "http://www1.ncdc.noaa.gov/pub/data/metadata/published/paleo/iso/xml/noaa-tree-9975.xml",
+  "originalSource" : null,
+  "dataTypeInformation" : "https://www.ncei.noaa.gov/products/paleoclimatology/tree-ring",
+  "studyCode" : "SWIT194",
+  "scienceKeywords" : [ "Norway spruce", "PCAB", "Picea abies (L.) H. Karst." ],
+  "reconstruction" : "N",
+  "contributionDate" : "2010-06-28",
+  "entryId" : "noaa-tree-9975",
+  "earliestYearBP" : 237,
+  "mostRecentYearBP" : 115,
+  "earliestYearCE" : 1713,
+  "mostRecentYearCE" : 1835,
+  "publication" : [ ],
+  "site" : [ {
+    "NOAASiteId" : "31581",
+    "siteName" : "Chilton English Double Bass",
+    "siteCode" : null,
+    "mappable" : "Y",
+    "locationName" : "Continent>Europe>Western Europe>Switzerland",
+    "geo" : {
+      "geoType" : "Feature",
+      "geometry" : {
+        "type" : "POINT",
+        "coordinates" : [ "47", "9" ]
+      },
+      "properties" : {
+        "southernmostLatitude" : "47",
+        "northernmostLatitude" : "47",
+        "westernmostLongitude" : "9",
+        "easternmostLongitude" : "9",
+        "minElevationMeters" : null,
+        "maxElevationMeters" : null
+      }
+    },
+    "paleoData" : [ {
+      "dataTableName" : "SWIT194",
+      "NOAADataTableId" : "18823",
+      "earliestYear" : 1713,
+      "mostRecentYear" : 1835,
+      "timeUnit" : "CE",
+      "earliestYearBP" : 237,
+      "mostRecentYearBP" : 115,
+      "earliestYearCE" : 1713,
+      "mostRecentYearCE" : 1835,
+      "coreLengthMeters" : null,
+      "dataTableNotes" : null,
+      "species" : [ {
+        "speciesCode" : "PCAB",
+        "scientificName" : "Picea abies (L.) H. Karst.",
+        "resourceId" : null,
+        "commonName" : [ "Norway spruce" ]
+      } ],
+      "dataFile" : [ {
+        "fileUrl" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/correlation-stats/swit194.txt",
+        "urlDescription" : "Correlation Stats",
+        "linkText" : "swit194.txt",
+        "variables" : [ ],
+        "NOAAKeywords" : [ "earth science>paleoclimate>tree-ring>width>ring width" ]
+      }, {
+        "fileUrl" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit194.rwl",
+        "urlDescription" : "Raw Measurements",
+        "linkText" : "swit194.rwl",
+        "variables" : [ {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "age variable>age",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "time unit>age unit>year Common Era",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : null,
+          "cvFormat" : "Numeric",
+          "cvShortName" : null
+        }, {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "physical property>width>total ring width",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "length unit>millimeter",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : "units are 0.01 mm if end-of-series marker is 999 and 0.001 mm if end-of-series marker is -9999",
+          "cvFormat" : "Numeric",
+          "cvShortName" : null
+        } ],
+        "NOAAKeywords" : [ "earth science>paleoclimate>tree-ring>width>ring width" ]
+      }, {
+        "fileUrl" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit194-noaa.rwl",
+        "urlDescription" : "Raw Measurements - NOAA Template File",
+        "linkText" : "swit194-noaa.rwl",
+        "variables" : [ {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "age variable>age",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "time unit>age unit>year Common Era",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : null,
+          "cvFormat" : "Numeric",
+          "cvShortName" : "age_CE"
+        }, {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "physical property>width>total ring width",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "length unit>millimeter",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : "Tree ID: ENG_DB~1; units are 0.01 mm if end-of-series marker is 999 and 0.001 mm if end-of-series marker is -9999",
+          "cvFormat" : "Numeric",
+          "cvShortName" : "ENG_DB~1_raw"
+        }, {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "physical property>width>total ring width",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "length unit>millimeter",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : "Tree ID: ENG_DB~2; units are 0.01 mm if end-of-series marker is 999 and 0.001 mm if end-of-series marker is -9999",
+          "cvFormat" : "Numeric",
+          "cvShortName" : "ENG_DB~2_raw"
+        } ],
+        "NOAAKeywords" : [ "earth science>paleoclimate>tree-ring>width>ring width" ]
+      } ]
+    } ]
+  } ],
+  "reference" : {
+    "pastThesaurusSkos" : "https://www.ncei.noaa.gov/access/paleo-search/skos/past-thesaurus.rdf",
+    "pastThesaurusExplorer" : "https://www.ncei.noaa.gov/access/paleo-search/cvterms",
+    "gcmdKeywordThesaurus" : "https://earthdata.nasa.gov/earth-observation-data/find-data/idn/gcmd-keywords"
+  }
+}

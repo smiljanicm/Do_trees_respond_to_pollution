@@ -1,0 +1,270 @@
+{
+  "xmlId" : "4529",
+  "NOAAStudyId" : "2715",
+  "studyName" : "Becker - Villingen - PCAB - ITRDB GERM18",
+  "doi" : "https://doi.org/10.25921/sdsz-ca10",
+  "uuid" : "a12b406f-3cd8-41a2-8f1d-b6f543b8e47d",
+  "dataPublisher" : "NOAA",
+  "contactInfo" : {
+    "type" : "CONTACT INFORMATION",
+    "shortName" : "DOC/NOAA/NESDIS/NCEI",
+    "longName" : "National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce ",
+    "address" : "325 Broadway, E/NE31",
+    "city" : "Boulder",
+    "state" : "CO",
+    "postalCode" : "80305-3328",
+    "country" : "USA",
+    "dataCenterUrl" : "https://www.ncei.noaa.gov/products/paleoclimatology",
+    "email" : "paleo@noaa.gov",
+    "phone" : "828-271-4800",
+    "fax" : "303-497-6513",
+    "constraints" : "Please cite original publication, online resource, dataset and publication DOIs (where available), and date accessed when using downloaded data. If there is no publication information, please cite investigator, title, online resource, and date accessed. The appearance of external links associated with a dataset does not constitute endorsement by the Department of Commerce/National Oceanic and Atmospheric Administration of external Web sites or the information, products or services contained therein. For other than authorized activities, the Department of Commerce/NOAA does not exercise any editorial control over the information you may find at these locations. These links are provided consistent with the stated purpose of this Department of Commerce/NOAA Web site."
+  },
+  "dataType" : "TREE RING",
+  "investigators" : "Becker, B.",
+  "investigatorDetails" : [ {
+    "firstName" : "Bernd",
+    "lastName" : "Becker",
+    "initials" : "B.",
+    "orcId" : null
+  } ],
+  "version" : "1.0",
+  "funding" : [ ],
+  "studyNotes" : "NOAA Template Raw Measurements file added 2019-02-05.",
+  "onlineResourceLink" : "https://www.ncei.noaa.gov/access/paleo-search/study/2715",
+  "difMetadataLink" : "http://www1.ncdc.noaa.gov/pub/data/metadata/published/paleo/dif/xml/noaa-tree-2715.xml",
+  "isoMetadataLink" : "http://www1.ncdc.noaa.gov/pub/data/metadata/published/paleo/iso/xml/noaa-tree-2715.xml",
+  "originalSource" : null,
+  "dataTypeInformation" : "https://www.ncei.noaa.gov/products/paleoclimatology/tree-ring",
+  "studyCode" : "GERM18",
+  "scienceKeywords" : [ "PCAB", "Picea abies (L.) H. Karst.", "Norway spruce" ],
+  "reconstruction" : "N",
+  "contributionDate" : "1990-08-01",
+  "entryId" : "noaa-tree-2715",
+  "earliestYearBP" : 44,
+  "mostRecentYearBP" : -23,
+  "earliestYearCE" : 1906,
+  "mostRecentYearCE" : 1973,
+  "publication" : [ ],
+  "site" : [ {
+    "NOAASiteId" : "15197",
+    "siteName" : "Villingen",
+    "siteCode" : null,
+    "mappable" : "Y",
+    "locationName" : "Continent>Europe>Western Europe>Germany",
+    "geo" : {
+      "geoType" : "Feature",
+      "geometry" : {
+        "type" : "POINT",
+        "coordinates" : [ "48.02", "8.5" ]
+      },
+      "properties" : {
+        "southernmostLatitude" : "48.02",
+        "northernmostLatitude" : "48.02",
+        "westernmostLongitude" : "8.5",
+        "easternmostLongitude" : "8.5",
+        "minElevationMeters" : "770",
+        "maxElevationMeters" : "770"
+      }
+    },
+    "paleoData" : [ {
+      "dataTableName" : "GERM18",
+      "NOAADataTableId" : "4441",
+      "earliestYear" : 1906,
+      "mostRecentYear" : 1973,
+      "timeUnit" : "CE",
+      "earliestYearBP" : 44,
+      "mostRecentYearBP" : -23,
+      "earliestYearCE" : 1906,
+      "mostRecentYearCE" : 1973,
+      "coreLengthMeters" : null,
+      "dataTableNotes" : null,
+      "species" : [ {
+        "speciesCode" : "PCAB",
+        "scientificName" : "Picea abies (L.) H. Karst.",
+        "resourceId" : null,
+        "commonName" : [ "Norway spruce" ]
+      } ],
+      "dataFile" : [ {
+        "fileUrl" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/correlation-stats/germ18.txt",
+        "urlDescription" : "Correlation Stats",
+        "linkText" : "germ18.txt",
+        "variables" : [ ],
+        "NOAAKeywords" : [ "earth science>paleoclimate>tree-ring>width>more info" ]
+      }, {
+        "fileUrl" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ18.rwl",
+        "urlDescription" : "Raw Measurements",
+        "linkText" : "germ18.rwl",
+        "variables" : [ {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "age variable>age",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "time unit>age unit>year Common Era",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : null,
+          "cvFormat" : "Numeric",
+          "cvShortName" : null
+        }, {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "physical property>width>total ring width",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "length unit>millimeter",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : "units are 0.01 mm if end-of-series marker is 999 and 0.001 mm if end-of-series marker is -9999",
+          "cvFormat" : "Numeric",
+          "cvShortName" : null
+        } ],
+        "NOAAKeywords" : [ "earth science>paleoclimate>tree-ring>width>ring width" ]
+      }, {
+        "fileUrl" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ18-noaa.rwl",
+        "urlDescription" : "Raw Measurements - NOAA Template File",
+        "linkText" : "germ18-noaa.rwl",
+        "variables" : [ {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "physical property>width>total ring width",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "length unit>millimeter",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : "Tree ID: 448061; units are 0.01 mm if end-of-series marker is 999 and 0.001 mm if end-of-series marker is -9999",
+          "cvFormat" : "Numeric",
+          "cvShortName" : "448061_raw"
+        }, {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "age variable>age",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "time unit>age unit>year Common Era",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : null,
+          "cvFormat" : "Numeric",
+          "cvShortName" : "age_CE"
+        }, {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "physical property>width>total ring width",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "length unit>millimeter",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : "Tree ID: 448011; units are 0.01 mm if end-of-series marker is 999 and 0.001 mm if end-of-series marker is -9999",
+          "cvFormat" : "Numeric",
+          "cvShortName" : "448011_raw"
+        }, {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "physical property>width>total ring width",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "length unit>millimeter",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : "Tree ID: 448021; units are 0.01 mm if end-of-series marker is 999 and 0.001 mm if end-of-series marker is -9999",
+          "cvFormat" : "Numeric",
+          "cvShortName" : "448021_raw"
+        }, {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "physical property>width>total ring width",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "length unit>millimeter",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : "Tree ID: 448031; units are 0.01 mm if end-of-series marker is 999 and 0.001 mm if end-of-series marker is -9999",
+          "cvFormat" : "Numeric",
+          "cvShortName" : "448031_raw"
+        }, {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "physical property>width>total ring width",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "length unit>millimeter",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : "Tree ID: 448041; units are 0.01 mm if end-of-series marker is 999 and 0.001 mm if end-of-series marker is -9999",
+          "cvFormat" : "Numeric",
+          "cvShortName" : "448041_raw"
+        }, {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "physical property>width>total ring width",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "length unit>millimeter",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : "Tree ID: 448051; units are 0.01 mm if end-of-series marker is 999 and 0.001 mm if end-of-series marker is -9999",
+          "cvFormat" : "Numeric",
+          "cvShortName" : "448051_raw"
+        }, {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "physical property>width>total ring width",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "length unit>millimeter",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : "Tree ID: 448071; units are 0.01 mm if end-of-series marker is 999 and 0.001 mm if end-of-series marker is -9999",
+          "cvFormat" : "Numeric",
+          "cvShortName" : "448071_raw"
+        }, {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "physical property>width>total ring width",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "length unit>millimeter",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : "Tree ID: 448081; units are 0.01 mm if end-of-series marker is 999 and 0.001 mm if end-of-series marker is -9999",
+          "cvFormat" : "Numeric",
+          "cvShortName" : "448081_raw"
+        }, {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "physical property>width>total ring width",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "length unit>millimeter",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : "Tree ID: 448091; units are 0.01 mm if end-of-series marker is 999 and 0.001 mm if end-of-series marker is -9999",
+          "cvFormat" : "Numeric",
+          "cvShortName" : "448091_raw"
+        }, {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "physical property>width>total ring width",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "length unit>millimeter",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : "Tree ID: 448101; units are 0.01 mm if end-of-series marker is 999 and 0.001 mm if end-of-series marker is -9999",
+          "cvFormat" : "Numeric",
+          "cvShortName" : "448101_raw"
+        } ],
+        "NOAAKeywords" : [ "earth science>paleoclimate>tree-ring>width>more info" ]
+      } ]
+    } ]
+  } ],
+  "reference" : {
+    "pastThesaurusSkos" : "https://www.ncei.noaa.gov/access/paleo-search/skos/past-thesaurus.rdf",
+    "pastThesaurusExplorer" : "https://www.ncei.noaa.gov/access/paleo-search/cvterms",
+    "gcmdKeywordThesaurus" : "https://earthdata.nasa.gov/earth-observation-data/find-data/idn/gcmd-keywords"
+  }
+}

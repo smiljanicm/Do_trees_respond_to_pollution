@@ -1,0 +1,378 @@
+{
+  "xmlId" : "14378",
+  "NOAAStudyId" : "16669",
+  "studyName" : "Fischer - Hessen/Kellerwald dhk35 - PCAB - ITRDB GERM159",
+  "doi" : "https://doi.org/10.25921/vw0n-mg12",
+  "uuid" : "93fa2a84-4a3b-40cb-9e6c-98b0ac634f39",
+  "dataPublisher" : "NOAA",
+  "contactInfo" : {
+    "type" : "CONTACT INFORMATION",
+    "shortName" : "DOC/NOAA/NESDIS/NCEI",
+    "longName" : "National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce ",
+    "address" : "325 Broadway, E/NE31",
+    "city" : "Boulder",
+    "state" : "CO",
+    "postalCode" : "80305-3328",
+    "country" : "USA",
+    "dataCenterUrl" : "https://www.ncei.noaa.gov/products/paleoclimatology",
+    "email" : "paleo@noaa.gov",
+    "phone" : "828-271-4800",
+    "fax" : "303-497-6513",
+    "constraints" : "Please cite original publication, online resource, dataset and publication DOIs (where available), and date accessed when using downloaded data. If there is no publication information, please cite investigator, title, online resource, and date accessed. The appearance of external links associated with a dataset does not constitute endorsement by the Department of Commerce/National Oceanic and Atmospheric Administration of external Web sites or the information, products or services contained therein. For other than authorized activities, the Department of Commerce/NOAA does not exercise any editorial control over the information you may find at these locations. These links are provided consistent with the stated purpose of this Department of Commerce/NOAA Web site."
+  },
+  "dataType" : "TREE RING",
+  "investigators" : "Fischer, S.",
+  "investigatorDetails" : [ {
+    "firstName" : null,
+    "lastName" : "Fischer",
+    "initials" : "S.",
+    "orcId" : null
+  } ],
+  "version" : "1.0",
+  "funding" : [ ],
+  "studyNotes" : "Purpose of Collection:\n# climate/growth relationship NOAA Template Raw Measurements file added 2019-02-05.",
+  "onlineResourceLink" : "https://www.ncei.noaa.gov/access/paleo-search/study/16669",
+  "difMetadataLink" : "http://www1.ncdc.noaa.gov/pub/data/metadata/published/paleo/dif/xml/noaa-tree-16669.xml",
+  "isoMetadataLink" : "http://www1.ncdc.noaa.gov/pub/data/metadata/published/paleo/iso/xml/noaa-tree-16669.xml",
+  "originalSource" : null,
+  "dataTypeInformation" : "https://www.ncei.noaa.gov/products/paleoclimatology/tree-ring",
+  "studyCode" : "GERM159",
+  "scienceKeywords" : [ "Norway spruce", "Picea abies (L.) H. Karst.", "PCAB" ],
+  "reconstruction" : "N",
+  "contributionDate" : "2014-02-27",
+  "entryId" : "noaa-tree-16669",
+  "earliestYearBP" : 70,
+  "mostRecentYearBP" : -55,
+  "earliestYearCE" : 1880,
+  "mostRecentYearCE" : 2005,
+  "publication" : [ {
+    "author" : {
+      "name" : "Stefanie Fischer and Burkhard Neuwirth"
+    },
+    "pubYear" : 2013,
+    "title" : "Vulnerability of Trees to Climate Events in Temperate Forests of West Germany",
+    "journal" : "ISRN Forestry",
+    "volume" : "2013",
+    "edition" : null,
+    "issue" : "201360",
+    "pages" : null,
+    "reportNumber" : null,
+    "citation" : "Stefanie Fischer and Burkhard Neuwirth. 2013. Vulnerability of Trees to Climate Events in Temperate Forests of West Germany. ISRN Forestry, 2013(201360). doi: 10.1155/2013/201360",
+    "type" : "publication",
+    "identifier" : {
+      "type" : "doi",
+      "id" : "10.1155/2013/201360",
+      "url" : "http://dx.doi.org/10.1155/2013/201360"
+    },
+    "abstract" : null,
+    "pubRank" : "4"
+  }, {
+    "author" : {
+      "name" : "Dagmar A. Friedrichs, Valerie Trouet, Ulf Büntgen, David C. Frank, Jan Esper, Burkhard Neuwirth, Jörg Löffler "
+    },
+    "pubYear" : 2009,
+    "title" : "Species-specific climate sensitivity of tree growth in Central-West Germany",
+    "journal" : "Trees - Structure and Function",
+    "volume" : "23",
+    "edition" : null,
+    "issue" : "4",
+    "pages" : "729-739",
+    "reportNumber" : null,
+    "citation" : "Dagmar A. Friedrichs, Valerie Trouet, Ulf Büntgen, David C. Frank, Jan Esper, Burkhard Neuwirth, Jörg Löffler. 2009. Species-specific climate sensitivity of tree growth in Central-West Germany. Trees - Structure and Function, 23(4), 729-739. doi: 10.1007/s00468-009-0315-2",
+    "type" : "publication",
+    "identifier" : {
+      "type" : "doi",
+      "id" : "10.1007/s00468-009-0315-2",
+      "url" : "http://dx.doi.org/10.1007/s00468-009-0315-2"
+    },
+    "abstract" : null,
+    "pubRank" : "2"
+  }, {
+    "author" : {
+      "name" : "Dagmar A. Friedrichs, Ulf Büntgen, David C. Frank, Jan Esper, Burkhard Neuwirth and Jörg Löffler"
+    },
+    "pubYear" : 2009,
+    "title" : "Complex climate controls on 20th century oak growth in Central-West Germany",
+    "journal" : "Tree Physiology",
+    "volume" : "29",
+    "edition" : null,
+    "issue" : "1",
+    "pages" : "39-51",
+    "reportNumber" : null,
+    "citation" : "Dagmar A. Friedrichs, Ulf Büntgen, David C. Frank, Jan Esper, Burkhard Neuwirth and Jörg Löffler. 2009. Complex climate controls on 20th century oak growth in Central-West Germany. Tree Physiology, 29(1), 39-51. doi: 10.1093/treephys/tpn003",
+    "type" : "publication",
+    "identifier" : {
+      "type" : "doi",
+      "id" : "10.1093/treephys/tpn003",
+      "url" : "http://dx.doi.org/10.1093/treephys/tpn003"
+    },
+    "abstract" : "We analyze interannual to multi-decadal growth variations of 555 oak trees from Central-West Germany. A network of 13 pedunculate oak (Quercus robur L.) and 33 sessile oak (Quercus petraea (Matt.) Liebl.) site chronologies is compared with gridded temperature, precipitation, cloud-cover, vapor pressure and drought (i.e., Palmer Drought Severity Index, PDSI) fluctuations. A hierarchic cluster analysis identifies three groups for each oak species differentiated by ecologic settings. When high precipitation is primarily a characteristic for one Q. robur and one Q. petraea cluster, the other clusters are more differentiated by prevailing temperature conditions. Correlation analysis with precipitation and vapor pressure reveals statistically significant (P <= 0.05) correlations for June (r = 0.51) and annual (r = 0.43) means. Growth of both species at dry sites correlates strongly with PDSI (r = 0.39, P <= 0.05), and weakly with temperature and cloud-cover. In natural stands, Q. robur responds more strongly to water depletion than Q. petraea. Twenty-one-year moving correlations show positive significant growth response to both PDSI and precipitation throughout the 20th century, except for the 1940s - an anomalously warm decade during which all oak sites are characterized by an increased growth and an enhanced association with vapor pressure and temperature. We suggest that the wider oak rings that are exhibited during this period may be indicative of a nonlinear or threshold-induced growth response to drought and vapor pressure, and run counter to the general response of oak to drought and precipitation that normally would result in suppressed growth in a warmer and drier environment. As the wide rings are formed during the severe drought period of the 20th century, a complex model seems to be required to fully explain the widespread oak growth. Our results indicate uncertainty in estimates of future growth trends of Central European oak forests in a warming and drying world.",
+    "pubRank" : "1"
+  }, {
+    "author" : {
+      "name" : "Johannes Andreas Schultz and Burkhard Neuwirth"
+    },
+    "pubYear" : 2012,
+    "title" : "A new atmospheric circulation tree-ring index (ACTI) derived from climate proxies: Procedure, results and applications",
+    "journal" : "Agricultural and Forest Meteorology",
+    "volume" : "164",
+    "edition" : null,
+    "issue" : null,
+    "pages" : "149-160",
+    "reportNumber" : null,
+    "citation" : "Johannes Andreas Schultz and Burkhard Neuwirth. 2012. A new atmospheric circulation tree-ring index (ACTI) derived from climate proxies: Procedure, results and applications. Agricultural and Forest Meteorology, 164, 149-160. doi: 10.1016/j.agrformet.2012.05.007",
+    "type" : "publication",
+    "identifier" : {
+      "type" : "doi",
+      "id" : "10.1016/j.agrformet.2012.05.007",
+      "url" : "http://dx.doi.org/10.1016/j.agrformet.2012.05.007"
+    },
+    "abstract" : null,
+    "pubRank" : "3"
+  } ],
+  "site" : [ {
+    "NOAASiteId" : "56028",
+    "siteName" : "Hessen/Kellerwald dhk35",
+    "siteCode" : null,
+    "mappable" : "Y",
+    "locationName" : "Continent>Europe>Western Europe>Germany",
+    "geo" : {
+      "geoType" : "Feature",
+      "geometry" : {
+        "type" : "POINT",
+        "coordinates" : [ "51.15", "8.9833" ]
+      },
+      "properties" : {
+        "southernmostLatitude" : "51.15",
+        "northernmostLatitude" : "51.15",
+        "westernmostLongitude" : "8.9833",
+        "easternmostLongitude" : "8.9833",
+        "minElevationMeters" : "340",
+        "maxElevationMeters" : "340"
+      }
+    },
+    "paleoData" : [ {
+      "dataTableName" : "GERM159",
+      "NOAADataTableId" : "26847",
+      "earliestYear" : 1880,
+      "mostRecentYear" : 2005,
+      "timeUnit" : "CE",
+      "earliestYearBP" : 70,
+      "mostRecentYearBP" : -55,
+      "earliestYearCE" : 1880,
+      "mostRecentYearCE" : 2005,
+      "coreLengthMeters" : null,
+      "dataTableNotes" : null,
+      "species" : [ {
+        "speciesCode" : "PCAB",
+        "scientificName" : "Picea abies (L.) H. Karst.",
+        "resourceId" : null,
+        "commonName" : [ "Norway spruce" ]
+      } ],
+      "dataFile" : [ {
+        "fileUrl" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/correlation-stats/germ159.txt",
+        "urlDescription" : "Correlation Stats",
+        "linkText" : "germ159.txt",
+        "variables" : [ ],
+        "NOAAKeywords" : [ "earth science>paleoclimate>tree-ring>width>ring width" ]
+      }, {
+        "fileUrl" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ159.rwl",
+        "urlDescription" : "Raw Measurements",
+        "linkText" : "germ159.rwl",
+        "variables" : [ {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "age variable>age",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "time unit>age unit>year Common Era",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : null,
+          "cvFormat" : "Numeric",
+          "cvShortName" : null
+        }, {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "physical property>width>total ring width",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "length unit>millimeter",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : "units are 0.01 mm if end-of-series marker is 999 and 0.001 mm if end-of-series marker is -9999",
+          "cvFormat" : "Numeric",
+          "cvShortName" : null
+        } ],
+        "NOAAKeywords" : [ "earth science>paleoclimate>tree-ring>width>ring width" ]
+      }, {
+        "fileUrl" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ159-noaa.rwl",
+        "urlDescription" : "Raw Measurements - NOAA Template File",
+        "linkText" : "germ159-noaa.rwl",
+        "variables" : [ {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "age variable>age",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "time unit>age unit>year Common Era",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : null,
+          "cvFormat" : "Numeric",
+          "cvShortName" : "age_CE"
+        }, {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "physical property>width>total ring width",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "length unit>millimeter",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : "Tree ID: dhk3512a; units are 0.01 mm if end-of-series marker is 999 and 0.001 mm if end-of-series marker is -9999",
+          "cvFormat" : "Numeric",
+          "cvShortName" : "dhk3512a_raw"
+        }, {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "physical property>width>total ring width",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "length unit>millimeter",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : "Tree ID: dhk3501b; units are 0.01 mm if end-of-series marker is 999 and 0.001 mm if end-of-series marker is -9999",
+          "cvFormat" : "Numeric",
+          "cvShortName" : "dhk3501b_raw"
+        }, {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "physical property>width>total ring width",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "length unit>millimeter",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : "Tree ID: dhk3502a; units are 0.01 mm if end-of-series marker is 999 and 0.001 mm if end-of-series marker is -9999",
+          "cvFormat" : "Numeric",
+          "cvShortName" : "dhk3502a_raw"
+        }, {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "physical property>width>total ring width",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "length unit>millimeter",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : "Tree ID: dhk3503b; units are 0.01 mm if end-of-series marker is 999 and 0.001 mm if end-of-series marker is -9999",
+          "cvFormat" : "Numeric",
+          "cvShortName" : "dhk3503b_raw"
+        }, {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "physical property>width>total ring width",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "length unit>millimeter",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : "Tree ID: dhk3504a; units are 0.01 mm if end-of-series marker is 999 and 0.001 mm if end-of-series marker is -9999",
+          "cvFormat" : "Numeric",
+          "cvShortName" : "dhk3504a_raw"
+        }, {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "physical property>width>total ring width",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "length unit>millimeter",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : "Tree ID: dhk3505a; units are 0.01 mm if end-of-series marker is 999 and 0.001 mm if end-of-series marker is -9999",
+          "cvFormat" : "Numeric",
+          "cvShortName" : "dhk3505a_raw"
+        }, {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "physical property>width>total ring width",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "length unit>millimeter",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : "Tree ID: dhk3506b; units are 0.01 mm if end-of-series marker is 999 and 0.001 mm if end-of-series marker is -9999",
+          "cvFormat" : "Numeric",
+          "cvShortName" : "dhk3506b_raw"
+        }, {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "physical property>width>total ring width",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "length unit>millimeter",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : "Tree ID: dhk3507a; units are 0.01 mm if end-of-series marker is 999 and 0.001 mm if end-of-series marker is -9999",
+          "cvFormat" : "Numeric",
+          "cvShortName" : "dhk3507a_raw"
+        }, {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "physical property>width>total ring width",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "length unit>millimeter",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : "Tree ID: dhk3508a; units are 0.01 mm if end-of-series marker is 999 and 0.001 mm if end-of-series marker is -9999",
+          "cvFormat" : "Numeric",
+          "cvShortName" : "dhk3508a_raw"
+        }, {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "physical property>width>total ring width",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "length unit>millimeter",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : "Tree ID: dhk3509z; units are 0.01 mm if end-of-series marker is 999 and 0.001 mm if end-of-series marker is -9999",
+          "cvFormat" : "Numeric",
+          "cvShortName" : "dhk3509z_raw"
+        }, {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "physical property>width>total ring width",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "length unit>millimeter",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : "Tree ID: dhk3510b; units are 0.01 mm if end-of-series marker is 999 and 0.001 mm if end-of-series marker is -9999",
+          "cvFormat" : "Numeric",
+          "cvShortName" : "dhk3510b_raw"
+        }, {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "physical property>width>total ring width",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "length unit>millimeter",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : "Tree ID: dhk3511b; units are 0.01 mm if end-of-series marker is 999 and 0.001 mm if end-of-series marker is -9999",
+          "cvFormat" : "Numeric",
+          "cvShortName" : "dhk3511b_raw"
+        } ],
+        "NOAAKeywords" : [ "earth science>paleoclimate>tree-ring>width>ring width" ]
+      } ]
+    } ]
+  } ],
+  "reference" : {
+    "pastThesaurusSkos" : "https://www.ncei.noaa.gov/access/paleo-search/skos/past-thesaurus.rdf",
+    "pastThesaurusExplorer" : "https://www.ncei.noaa.gov/access/paleo-search/cvterms",
+    "gcmdKeywordThesaurus" : "https://earthdata.nasa.gov/earth-observation-data/find-data/idn/gcmd-keywords"
+  }
+}

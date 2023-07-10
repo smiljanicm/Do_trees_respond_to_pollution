@@ -1,0 +1,73 @@
+---
+title: "Soil_analysis"
+author: "Marko Smiljanic"
+date: "2023-05-30"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+library(tidyverse)
+```
+
+### Boxplot
+
+```{r cars}
+dat <- readxl::read_excel("Data lesy final 13102021.xlsx")
+dat <- dat %>%
+  mutate(Site_big = substring(dat$Sample, 1, 2)) %>%
+  filter(!is.na(Site)) %>%
+  select(!contains("Exchangeable")) %>%
+  select(!contains("Pseudototal")) %>%
+  mutate_at(vars(-Site, -Locality, -Sample, -Horizon, -Site_big), as.numeric) %>%
+   mutate(Site_new = substr(Site, 1,2), Subsite = paste0(Locality, Site_new))
+
+dat %>%
+select(Site_big, Subsite, contains("pH"), Locality) %>%
+pivot_longer(c(-Site_big, -Subsite, -Locality), values_to = 'pH value') %>%
+ggplot(aes(x=Locality, y=`pH value`)) + 
+  geom_boxplot() + 
+  geom_jitter(aes(colour=Subsite)) + 
+  facet_wrap(~name) + 
+  theme_bw() +
+  xlab("Sites")
+```
+
+
+
+```{r pHBig}
+dat %>%
+select(Site_big, Site, contains("pH")) %>%
+pivot_longer(c(-Site_big, -Site)) %>%
+ggplot(aes(x=paste(Site_big,Site,sep='_'), y=value)) +
+geom_boxplot() +
+geom_jitter(aes(colour=Site)) +
+facet_wrap(~name) +
+theme(axis.text.x = element_text(angle=30, hjust=1))
+```
+
+
+
+### Aq cluster
+
+
+```{r Aq}
+dat_aq <- dat %>%
+select(Subsite, contains("Aq")) %>%
+select_at(-caret::nearZeroVar(.)) %>%
+mutate_at(vars(-Subsite), scale) %>%
+group_by(Subsite) %>%
+summarize_all(mean, na.rm=T)
+dat_aq %>%
+dist() %>%
+hclust() %>%
+plot(labels = dat_aq$Subsite, main='Cluster aq')
+```
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

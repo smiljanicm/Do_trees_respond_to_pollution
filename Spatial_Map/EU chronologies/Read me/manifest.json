@@ -1,0 +1,4698 @@
+{
+  "files" : [ {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ14.rwl",
+    "filesize" : "29119",
+    "MD5" : "07dcf46243f2e774da17a74a24ba7b0c"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ14-noaa.rwl",
+    "filesize" : "35856",
+    "MD5" : "415a9e136bd7473041e4b9208cc9de68"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/czec3-noaa.rwl",
+    "filesize" : "18481",
+    "MD5" : "6669e124e68ebcb544a4bde0172f05b2"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/czec3.rwl",
+    "filesize" : "15121",
+    "MD5" : "b3f7743cc694e4e64484ee50ae266ab2"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ11-noaa.rwl",
+    "filesize" : "17996",
+    "MD5" : "531a7e061532c0e2efa7626369d924c0"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ11.rwl",
+    "filesize" : "16113",
+    "MD5" : "dbd8a2e4bd4f295bc01bbabee2a22397"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ16-noaa.rwl",
+    "filesize" : "14143",
+    "MD5" : "c05c0f9aeb6d02396e3fa2a52c3ff282"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ16.rwl",
+    "filesize" : "12652",
+    "MD5" : "68bde8f19234f6e63cf051a745937747"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ17-noaa.rwl",
+    "filesize" : "10616",
+    "MD5" : "2ad02294943c74f0121b6014207b2987"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ17.rwl",
+    "filesize" : "9135",
+    "MD5" : "1dc46398c3b521a1926e4f00d6c0163f"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ18.rwl",
+    "filesize" : "5190",
+    "MD5" : "2dfc7c9b0a48c7aecb4aeff3e8c76ac7"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ18-noaa.rwl",
+    "filesize" : "7695",
+    "MD5" : "79d2345d757c725060a9fa16ba0710e4"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit186-noaa.rwl",
+    "filesize" : "17834",
+    "MD5" : "900aee0b997e9b24808e52d054c3bd3c"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit186.rwl",
+    "filesize" : "18038",
+    "MD5" : "e9adb8832d210b4b36c102cba623a421"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit180-noaa.rwl",
+    "filesize" : "20387",
+    "MD5" : "38892a8956e37a5c83f94c6d5fe6cfef"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit180.rwl",
+    "filesize" : "17565",
+    "MD5" : "04047b10a592c5fa658042239d84055c"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit181-noaa.rwl",
+    "filesize" : "30255",
+    "MD5" : "372bea24e5e41d0e32965b32cd34f0d6"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit181.rwl",
+    "filesize" : "24276",
+    "MD5" : "eb9b5157eb1df9c1c29b8179eec97e9d"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit179-noaa.rwl",
+    "filesize" : "28213",
+    "MD5" : "430e6268836932e056c2d6f7d8a729c8"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit179.rwl",
+    "filesize" : "22040",
+    "MD5" : "083d6e47c2c477f43a7eb07c140016e4"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit189.rwl",
+    "filesize" : "27002",
+    "MD5" : "1ef8dcaab1e79070f8a9ac33942babe7"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit189-noaa.rwl",
+    "filesize" : "29449",
+    "MD5" : "bf0910d97ff06ada51587cfca509bf8f"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit279.rwl",
+    "filesize" : "37800",
+    "MD5" : "0c518f6fc2c1c9f7030874cca03ef67c"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit279-noaa.rwl",
+    "filesize" : "45392",
+    "MD5" : "294d7f9de15bf109688c74f6d8c634a2"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit184.rwl",
+    "filesize" : "24698",
+    "MD5" : "3a93ee51f186e1dd4d7214321a19c8c2"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit184-noaa.rwl",
+    "filesize" : "31542",
+    "MD5" : "4adccf769f1c48d9697bd650848225a2"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit193.rwl",
+    "filesize" : "28034",
+    "MD5" : "f06fd3a8c87c8bbed646bb5fff9a4bad"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit193-noaa.rwl",
+    "filesize" : "28351",
+    "MD5" : "c8ab47029ca3b54f160d504f7c873619"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit253-noaa.rwl",
+    "filesize" : "23812",
+    "MD5" : "5700a54c143a45e0ac416d3b17000028"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit253.rwl",
+    "filesize" : "16902",
+    "MD5" : "db286d3af86d8c30d3f6effd91fca50b"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit206.rwl",
+    "filesize" : "9818",
+    "MD5" : "de035d624d3c21ae4c984cc4505e9e33"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit206-noaa.rwl",
+    "filesize" : "14796",
+    "MD5" : "e91e83aa8b506bc04aac28fbf2436d7a"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit299-noaa.rwl",
+    "filesize" : "12223",
+    "MD5" : "28fbfe5608525704603be6496d8c3d04"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit299.rwl",
+    "filesize" : "8004",
+    "MD5" : "88d1319f991cb8f7adeff2107c8490f9"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit258.rwl",
+    "filesize" : "26218",
+    "MD5" : "3102ae90a35d8fa37b9b8374c6f2585e"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit258-noaa.rwl",
+    "filesize" : "29951",
+    "MD5" : "2447047aba960c4393460488d0964455"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit266-noaa.rwl",
+    "filesize" : "16244",
+    "MD5" : "d49462017025004bde5b936cef4de4f7"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit266.rwl",
+    "filesize" : "17250",
+    "MD5" : "9604e5fd1d467264245acf85ae9f096e"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit334.rwl",
+    "filesize" : "19872",
+    "MD5" : "3e7ff26199966a36529246d19cb41638"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit334-noaa.rwl",
+    "filesize" : "27277",
+    "MD5" : "ad5b3898704e36aa3d4380a4c28fdf92"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit340-noaa.rwl",
+    "filesize" : "59213",
+    "MD5" : "5a6aea86252aa6538c772f08fef5c0cc"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit340.rwl",
+    "filesize" : "41568",
+    "MD5" : "bf5d3c207a483991df021d66d7bf4e0c"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit249.rwl",
+    "filesize" : "1418",
+    "MD5" : "9c505d1af8c37b6c07d8779246b6be5b"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit249-noaa.rwl",
+    "filesize" : "4748",
+    "MD5" : "e7944c27398c74b219528c937ac54025"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit326.rwl",
+    "filesize" : "3866",
+    "MD5" : "149b65bbbaa15b7a5436e6bd7d28bdb5"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit326-noaa.rwl",
+    "filesize" : "6727",
+    "MD5" : "deaab5866df8f8b69ea110bbdaee5c4c"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit356.rwl",
+    "filesize" : "17860",
+    "MD5" : "f45ed4f55fdbc57161e6d0d87e58cc03"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit356-noaa.rwl",
+    "filesize" : "20853",
+    "MD5" : "8507cf9e19d4915f6633852d1afb4818"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/pola022-noaa.rwl",
+    "filesize" : "73049",
+    "MD5" : "c2dacd998a790bbf68b2925c1222cccf"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/pola022.rwl",
+    "filesize" : "50046",
+    "MD5" : "70fb42dcd53a3486077bab6511cf07e1"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/pola023-noaa.rwl",
+    "filesize" : "59507",
+    "MD5" : "8fa4c5545c2eff2e2680ca5eaf8fdce4"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/pola023.rwl",
+    "filesize" : "48492",
+    "MD5" : "23b4ff736cf3a3ea548bf3bc5b162a99"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/pola025.rwl",
+    "filesize" : "44824",
+    "MD5" : "e361c8f6f6aebe20e79dbb11a78e28b5"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/pola025-noaa.rwl",
+    "filesize" : "49746",
+    "MD5" : "a382d2065d8e78415cb9416a3a4c8682"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/pola026.rwl",
+    "filesize" : "38766",
+    "MD5" : "4f2ffb219b2ccb5fd6e76f49f2cda5bd"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/pola026-noaa.rwl",
+    "filesize" : "49078",
+    "MD5" : "2669ac34559601db38830531aadbd924"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/pola027.rwl",
+    "filesize" : "86254",
+    "MD5" : "b066891a59d9173848a767f492d309c1"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/pola027-noaa.rwl",
+    "filesize" : "109515",
+    "MD5" : "c144247669753c1725b910a7cd4a0587"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/pola028-noaa.rwl",
+    "filesize" : "34349",
+    "MD5" : "e048e9e59ec279d693b63817e81afeda"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/pola028.rwl",
+    "filesize" : "30690",
+    "MD5" : "36e53c37794d5cc4412a0de71c0a495e"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/pola029-noaa.rwl",
+    "filesize" : "56078",
+    "MD5" : "d2043487e5d5a936ee49ee33baf6c9f2"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/pola029.rwl",
+    "filesize" : "39926",
+    "MD5" : "0e62d9b207723bf88f86eb130e8b9b06"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit256.rwl",
+    "filesize" : "14184",
+    "MD5" : "fa207d4fd0d6a11764598134a84cf63c"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit256-noaa.rwl",
+    "filesize" : "22316",
+    "MD5" : "6ef4636287d2663fbb35d37b975642fd"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/svk002-noaa.rwl",
+    "filesize" : "77627",
+    "MD5" : "7d20087f50bf6414965bfad91682f869"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/svk002.rwl",
+    "filesize" : "46842",
+    "MD5" : "45de484bfa9391657e202881a588b991"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/svk004.rwl",
+    "filesize" : "15192",
+    "MD5" : "4fd7033ab74999335e5590908e4b8519"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/svk004-noaa.rwl",
+    "filesize" : "16400",
+    "MD5" : "5a3bfbe634895bd3e6aa7fe57add7e2b"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/pola030-noaa.rwl",
+    "filesize" : "106663",
+    "MD5" : "3a956a3af04ecba3f086571c50df3922"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/pola030.rwl",
+    "filesize" : "61766",
+    "MD5" : "4783af8c37813faf396696c5360afc64"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/pola036-noaa.rwl",
+    "filesize" : "70905",
+    "MD5" : "35855564f7e9a4a0ac0889cd2cecef15"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/pola036.rwl",
+    "filesize" : "43106",
+    "MD5" : "f5a5691f5280b1675aee43c64186b187"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/pola033.rwl",
+    "filesize" : "102674",
+    "MD5" : "ac7f5494b8190e9284ede3c95e20b45d"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/pola033-noaa.rwl",
+    "filesize" : "102635",
+    "MD5" : "273700c547a14faabcce916fab8c5cdf"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/pola032-noaa.rwl",
+    "filesize" : "124807",
+    "MD5" : "c48cbe2553e0ebc6bd0b784a7ba2379a"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/pola032.rwl",
+    "filesize" : "92228",
+    "MD5" : "a397c162fef08f3d01d97abc39340a8d"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/pola035-noaa.rwl",
+    "filesize" : "48203",
+    "MD5" : "258873816085a2a0c300171861c91e37"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/pola035.rwl",
+    "filesize" : "57098",
+    "MD5" : "ab36122ff5baf9b891456b8373082bc9"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/pola034-noaa.rwl",
+    "filesize" : "14733",
+    "MD5" : "d7472ca1074ed799f11280a39d0bb488"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/pola034.rwl",
+    "filesize" : "15086",
+    "MD5" : "ae541f6c222bf79ff7aebf3b8eb6c9e8"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/pola031.rwl",
+    "filesize" : "44472",
+    "MD5" : "db26bd1eac16a1ef610fcef1b3fe8878"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/pola031-noaa.rwl",
+    "filesize" : "51419",
+    "MD5" : "9fa34f17c2f63da0cf5cd94e530482c9"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/svk005-noaa.rwl",
+    "filesize" : "17307",
+    "MD5" : "116d3b4cdf771ca17fa5bed71754bbc7"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/svk005.rwl",
+    "filesize" : "17500",
+    "MD5" : "ddb8e7834aca7b7ef1801dd3444ef839"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/pola037-noaa.rwl",
+    "filesize" : "164916",
+    "MD5" : "98bf411bdc1acba80e26bb20b38fb6fa"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/pola037.rwl",
+    "filesize" : "112310",
+    "MD5" : "c78965fa82e82f803652b9076022ae10"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit203.rwl",
+    "filesize" : "32928",
+    "MD5" : "c01ccb9e0a9b37b95945c00beba44294"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit203-noaa.rwl",
+    "filesize" : "30267",
+    "MD5" : "b562c95d8547ad3134af7d45553ab737"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit215.rwl",
+    "filesize" : "41980",
+    "MD5" : "73f79c3487fad31fe2508adcafa55f9f"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit215-noaa.rwl",
+    "filesize" : "44497",
+    "MD5" : "4d4606b128000d5083acfee978149308"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit222.rwl",
+    "filesize" : "19948",
+    "MD5" : "50553a76a4aafa9bfb2088b63bb4f776"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit222-noaa.rwl",
+    "filesize" : "22994",
+    "MD5" : "e4e4405529899d63a5d386e9bf5c6f45"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit226-noaa.rwl",
+    "filesize" : "10052",
+    "MD5" : "aa0490999d2fe334c0a114675e4869cd"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit226.rwl",
+    "filesize" : "5574",
+    "MD5" : "dc51327a6d7a87b3167da7a61d3fcff0"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ234-noaa.rwl",
+    "filesize" : "55241",
+    "MD5" : "3baa047a8cdfb2d1dfa8b671d36aa31a"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ234.rwl",
+    "filesize" : "54384",
+    "MD5" : "0d27fe76d950537f44b57743a4b97d62"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ233-noaa.rwl",
+    "filesize" : "37564",
+    "MD5" : "21ef6258941a53908bdbd944be7bf028"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ233.rwl",
+    "filesize" : "32220",
+    "MD5" : "188b091a8747c3846084fcbc1f98898f"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ227-noaa.rwl",
+    "filesize" : "52097",
+    "MD5" : "e276ba423acbd34d51b1d6336a05e570"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ227.rwl",
+    "filesize" : "52590",
+    "MD5" : "c13e65c39828863fdeb07d04af32d0d9"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ230-noaa.rwl",
+    "filesize" : "33682",
+    "MD5" : "e72991d6fa1999b93e055c3514c99656"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ230.rwl",
+    "filesize" : "30528",
+    "MD5" : "ee81e9447d271ab55739a1cb66536854"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ237.rwl",
+    "filesize" : "51366",
+    "MD5" : "1e90c129e82fa3dbfbba7fe012a7488f"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ237-noaa.rwl",
+    "filesize" : "48619",
+    "MD5" : "e0629229bb0bff100fe35d460ec7e178"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ236.rwl",
+    "filesize" : "16128",
+    "MD5" : "f7d8287c50ed28e6ff1376a493968178"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ236-noaa.rwl",
+    "filesize" : "19219",
+    "MD5" : "1d2cc4d167d536fdebdd0be691fd7c3b"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ241.rwl",
+    "filesize" : "24680",
+    "MD5" : "f1e8dc7294f53f88e4313d0238fdc728"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ241-noaa.rwl",
+    "filesize" : "34266",
+    "MD5" : "1159b1c8e2a372ebae6dcf47015c547d"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ242-noaa.rwl",
+    "filesize" : "38965",
+    "MD5" : "667915ece962235186047327ab3f7d0e"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ242.rwl",
+    "filesize" : "34778",
+    "MD5" : "14cd5a0a6ecf1e16b9b5538446524217"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ243-noaa.rwl",
+    "filesize" : "60062",
+    "MD5" : "4211e1048bd1f37ae62a5ea6d8997623"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ243.rwl",
+    "filesize" : "64612",
+    "MD5" : "df6c7ed76a8679564eb8dd95da0b06b5"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ244-noaa.rwl",
+    "filesize" : "55640",
+    "MD5" : "4815f47394e905edda748c41ed7cc671"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ244.rwl",
+    "filesize" : "57306",
+    "MD5" : "8996217a5ee596ce1f8db41276e16bfb"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ245-noaa.rwl",
+    "filesize" : "71504",
+    "MD5" : "da0742138c4a4f21e6f8949a28eee707"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ245.rwl",
+    "filesize" : "60630",
+    "MD5" : "c9c4f0b1a3c1a443ebdac86366302bcc"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ246-noaa.rwl",
+    "filesize" : "83847",
+    "MD5" : "975c9f5e2e5e2f59cd3ffa66fc375020"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ246.rwl",
+    "filesize" : "118640",
+    "MD5" : "ff33a696caed85aec81992d4cd7e954f"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/pola001.rwl",
+    "filesize" : "12987",
+    "MD5" : "d93c7833f95338c608989dda39b70211"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/pola001-noaa.rwl",
+    "filesize" : "12199",
+    "MD5" : "de64c1b8d6bdbb00dbf7cee1ce2bf47b"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ159-noaa.rwl",
+    "filesize" : "19931",
+    "MD5" : "3872b1569c6bd0e3a4fa468df47bf436"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ159.rwl",
+    "filesize" : "11080",
+    "MD5" : "d71031aaba7b7a6c961799be77f70f71"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ189.rwl",
+    "filesize" : "13734",
+    "MD5" : "4722ce0f8db83ec184ce187a89c3799d"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ189-noaa.rwl",
+    "filesize" : "18068",
+    "MD5" : "d5cf03ddcb6a48b90aca9326fc070870"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ192-noaa.rwl",
+    "filesize" : "10212",
+    "MD5" : "01d02d589181499e405a3f2edf4b0742"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ192.rwl",
+    "filesize" : "6882",
+    "MD5" : "0f8940384068731906dd40f87a3be181"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ208.rwl",
+    "filesize" : "13070",
+    "MD5" : "18a89d9eb0175bfccdef7cbd213b7168"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ208-noaa.rwl",
+    "filesize" : "17117",
+    "MD5" : "9c3b491e9f900d4df18eb8c0fc6c8b1b"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit332.rwl",
+    "filesize" : "22312",
+    "MD5" : "e509e4c3eda247bcc9616154ea051b5d"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit332-noaa.rwl",
+    "filesize" : "21288",
+    "MD5" : "2d2f420cb0f18bf42f42830fe2f6fa02"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/aust003-noaa.rwl",
+    "filesize" : "342649",
+    "MD5" : "3674c94fb3fe418bc5f55170cfac9237"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/aust003.rwl",
+    "filesize" : "100242",
+    "MD5" : "812c0049ca347398bf7afcd64415fef1"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit408-noaa.rwl",
+    "filesize" : "88652",
+    "MD5" : "a02c860fb0f4d3fa7c5e6cc36dbcdbb7"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit408.rwl",
+    "filesize" : "64599",
+    "MD5" : "5f5aca0a1d73f608d78dc5df9d9de9d6"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit372-noaa.rwl",
+    "filesize" : "36715",
+    "MD5" : "a1ea3d303569bf30ec5adbff7bdb1d3d"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit372.rwl",
+    "filesize" : "30209",
+    "MD5" : "2d15cc92feb3d84cf8125c8c1748c564"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit373-noaa.rwl",
+    "filesize" : "22601",
+    "MD5" : "0a1b10412a920c37399dccb50ffdeb13"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit373.rwl",
+    "filesize" : "20111",
+    "MD5" : "b8767bcfc145353808aff43a8ceef62b"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit379-noaa.rwl",
+    "filesize" : "42083",
+    "MD5" : "85f54c3663794d5b1565cee6f83a8c76"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit379.rwl",
+    "filesize" : "38733",
+    "MD5" : "6252b95a6c176fbee8a21219614fccba"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit369.rwl",
+    "filesize" : "17219",
+    "MD5" : "8ffbb9b689eef04258ff9f39cd706291"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit369-noaa.rwl",
+    "filesize" : "24988",
+    "MD5" : "57c68ae69eb59a20669baf2bc22dc2d7"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit370-noaa.rwl",
+    "filesize" : "25034",
+    "MD5" : "152ffcc04a1c80a5c4294caf088ce2dd"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit370.rwl",
+    "filesize" : "21015",
+    "MD5" : "3676e1e851444869fbcc4ed43df34202"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit371-noaa.rwl",
+    "filesize" : "28132",
+    "MD5" : "e345de5610a3216737a2b3c8ed433167"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit371.rwl",
+    "filesize" : "27127",
+    "MD5" : "08a24c5bf051d13b55f4fa2f52f16b5b"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit376-noaa.rwl",
+    "filesize" : "26733",
+    "MD5" : "2c4c19a100b75aa6a76c6a1c83aa2cd5"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit376.rwl",
+    "filesize" : "29761",
+    "MD5" : "08948881c65ddbce63ddaa1064436e70"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit380-noaa.rwl",
+    "filesize" : "20205",
+    "MD5" : "29072c7298f76bd9bd176cae3791dc97"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit380.rwl",
+    "filesize" : "15579",
+    "MD5" : "a1f4fb8a345561de2fc717d7e1784a42"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit374.rwl",
+    "filesize" : "14621",
+    "MD5" : "bc2f5b88caf175ed1405a02a5c0bf0c9"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit374-noaa.rwl",
+    "filesize" : "21603",
+    "MD5" : "7df03b0eb07ada1d4d372cc6747eb4f6"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit368-noaa.rwl",
+    "filesize" : "24420",
+    "MD5" : "0f46f8fc3efca71d85ed10815c8e00a5"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit368.rwl",
+    "filesize" : "25967",
+    "MD5" : "c6d950ee05928b3dcd2c0c54250a211a"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit383-noaa.rwl",
+    "filesize" : "27089",
+    "MD5" : "c26e85e6c0af97fd4c1fb26526312258"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit383.rwl",
+    "filesize" : "17479",
+    "MD5" : "91c60ddf9c4703b5dfd06dc12cdbafc3"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit381.rwl",
+    "filesize" : "22451",
+    "MD5" : "55b9ee58dce910bb679d315662701a85"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit381-noaa.rwl",
+    "filesize" : "18484",
+    "MD5" : "5d817114fdc6ac7e36d258cb1b7a7cfc"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit375-noaa.rwl",
+    "filesize" : "20447",
+    "MD5" : "261c95f43a91fd7ed2d2c6a3ddf2fca5"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit375.rwl",
+    "filesize" : "18953",
+    "MD5" : "25955335e62571a321bcfa5603fedf02"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit378-noaa.rwl",
+    "filesize" : "29940",
+    "MD5" : "bd49260d62963d5a5b3d667f2eab249a"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit378.rwl",
+    "filesize" : "35225",
+    "MD5" : "f8c6aaf0f9de1e133f44c70522c30350"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit382-noaa.rwl",
+    "filesize" : "40558",
+    "MD5" : "dda98a937bd872b0902e4ffa6ac85717"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit382.rwl",
+    "filesize" : "40395",
+    "MD5" : "9aecd4068fc137ff816c3e8194daaa1d"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit377.rwl",
+    "filesize" : "18905",
+    "MD5" : "c30abe090102dad128804ccc3f39a47b"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit377-noaa.rwl",
+    "filesize" : "27180",
+    "MD5" : "2ded9f49488d7c99e6ce1f49753cf2ea"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/ital025.rwl",
+    "filesize" : "13194",
+    "MD5" : "f62f73ed3b6399933c423d26a211319e"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/ital025-noaa.rwl",
+    "filesize" : "24025",
+    "MD5" : "724d8f7169c3d333b36195b85d955091"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ238-noaa.rwl",
+    "filesize" : "70894",
+    "MD5" : "7995bef5f6eef225088d1edbab3e6f94"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ238.rwl",
+    "filesize" : "50168",
+    "MD5" : "4cbf4b490a941baf3638a7aacb7d8c7b"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/czec007-noaa.rwl",
+    "filesize" : "53672",
+    "MD5" : "f33ab42282a5d685e3a045ff1d8d4a9c"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/czec007.rwl",
+    "filesize" : "29254",
+    "MD5" : "4833b2ea2a3cbaa4fd815e2d2f5947bd"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/czec010-noaa.rwl",
+    "filesize" : "30571",
+    "MD5" : "ec564984ee715539101b96fb8ab758bc"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/czec010.rwl",
+    "filesize" : "22800",
+    "MD5" : "717066c9e7e6cdf9dba405d89dc96b44"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit412-noaa.rwl",
+    "filesize" : "43260",
+    "MD5" : "1f600183ba77a08a54dec9b4fc295b9b"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit412.rwl",
+    "filesize" : "32229",
+    "MD5" : "a63c4f90cb0b67aad32a115dcc7c018f"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit409.rwl",
+    "filesize" : "31021",
+    "MD5" : "6cca05d45105327604f877feb971fed3"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit409-noaa.rwl",
+    "filesize" : "34694",
+    "MD5" : "142fddbb473beeefc1401e235541a4da"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit194.rwl",
+    "filesize" : "1789",
+    "MD5" : "16e268e7d7900daa017f52e15a1369fb"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit194-noaa.rwl",
+    "filesize" : "6020",
+    "MD5" : "18ded7a6a55d98c480088b263048262f"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ064.rwl",
+    "filesize" : "1454",
+    "MD5" : "33d37950e787c32b9c48565471e0420f"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ064-noaa.rwl",
+    "filesize" : "4652",
+    "MD5" : "e6112746ca7a2526e68cf51bfe1f6b60"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ062.rwl",
+    "filesize" : "2549",
+    "MD5" : "1ead672fcdf7d11a8bfec7e839ba831e"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ062-noaa.rwl",
+    "filesize" : "5955",
+    "MD5" : "431a9993f1501bca27d089443d563840"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ063.rwl",
+    "filesize" : "1728",
+    "MD5" : "1bc65ea93c12334d152e2ced5f3a15e8"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ063-noaa.rwl",
+    "filesize" : "4945",
+    "MD5" : "18b4cd801072bbe407fe1cfe7e62417c"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/svk007.rwl",
+    "filesize" : "44856",
+    "MD5" : "e16af57a4644523a71b148ac97a23bc2"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/svk007-noaa.rwl",
+    "filesize" : "59131",
+    "MD5" : "538745fe676e2d08ea39851ec5f9f134"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/czec021-noaa.rwl",
+    "filesize" : "45915",
+    "MD5" : "ec9bd5d860e3f6c18387c90f089b4a40"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/czec021.rwl",
+    "filesize" : "44826",
+    "MD5" : "bc934f7d3bf2c437df9da55c1263e4be"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/czec026.rwl",
+    "filesize" : "30164",
+    "MD5" : "ae5f9454265ee9371a448df36c8be02b"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/czec026-noaa.rwl",
+    "filesize" : "37397",
+    "MD5" : "b7f997fee5c12612583dfa9dd4537fe1"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/czec005-noaa.rwl",
+    "filesize" : "195439",
+    "MD5" : "aca7edb9b25e2a6760ae72d28e6cab00"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/czec005.rwl",
+    "filesize" : "166902",
+    "MD5" : "3764460104d6bdbaa128370d9f7e53f3"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/czec001-noaa.rwl",
+    "filesize" : "305063",
+    "MD5" : "a174a76601bc6ba5a63512807d64652b"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/czec001.rwl",
+    "filesize" : "41009",
+    "MD5" : "9bae7286b473042ec26a3c2b93f5db50"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/czec002-noaa.rwl",
+    "filesize" : "67292",
+    "MD5" : "8d6913dc8f0e3e1327bec3c58d0248ca"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/czec002.rwl",
+    "filesize" : "81494",
+    "MD5" : "783a966d617204c8b12c44a7a796cd8b"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ020.rwl",
+    "filesize" : "16196",
+    "MD5" : "1743ad57a91ca94f0831a0cd0532ef97"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ020-noaa.rwl",
+    "filesize" : "19584",
+    "MD5" : "3f9927b1fb42e3d04ae59b4cf1dbc697"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit108.rwl",
+    "filesize" : "7854",
+    "MD5" : "1b357377ea9584d93f3fbccfc00cb6d0"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit108-noaa.rwl",
+    "filesize" : "69472",
+    "MD5" : "86a4597d29b696cc2d3e9aea0437c278"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit107.rwl",
+    "filesize" : "13500",
+    "MD5" : "f30d0e2e666ca266f44e24d2db25deb3"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit107-noaa.rwl",
+    "filesize" : "17095",
+    "MD5" : "11413a47ff48e7f46443f00dc591de8b"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit120-noaa.rwl",
+    "filesize" : "28517",
+    "MD5" : "a9f5f95bdb7e64179a1f92076650003b"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit120.rwl",
+    "filesize" : "22441",
+    "MD5" : "90fa727ba64d1e83e30f883547178cc5"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit117-noaa.rwl",
+    "filesize" : "25244",
+    "MD5" : "415f136bb5d3e5b1faf4e562ef9168a9"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit117.rwl",
+    "filesize" : "26844",
+    "MD5" : "14335210590f7e81528f8befd4ddc9a2"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/ital014.rwl",
+    "filesize" : "21071",
+    "MD5" : "7aac1452deb7e04296bbac03fce04153"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/ital014-noaa.rwl",
+    "filesize" : "21749",
+    "MD5" : "1ea2b2a2298e74176f3864c7e65cbbe7"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit124-noaa.rwl",
+    "filesize" : "34342",
+    "MD5" : "5a6f9474017043c8a402585a13bc118d"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit124.rwl",
+    "filesize" : "41086",
+    "MD5" : "cf5aa607d8d560fe863388a9e3c1f966"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/ital006.rwl",
+    "filesize" : "10039",
+    "MD5" : "9837bbc2c5ff48ca15459432bd4ffbde"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/ital006-noaa.rwl",
+    "filesize" : "15567",
+    "MD5" : "e9522a257146f111a94f1baef321ba5b"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/ital007.rwl",
+    "filesize" : "16693",
+    "MD5" : "3d5833c4807cc164189d0615f960a42d"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/ital007-noaa.rwl",
+    "filesize" : "17573",
+    "MD5" : "34fa325eaab4982a7dbbf023a73e7bd1"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/pola020-noaa.rwl",
+    "filesize" : "18253",
+    "MD5" : "48c2d3c05e334edc030510498db8019c"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/pola020.rwl",
+    "filesize" : "15594",
+    "MD5" : "dad3f2e925c366c3529ceea3f72f7dbd"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit102.rwl",
+    "filesize" : "22027",
+    "MD5" : "3dc464e7c2ffc150a19b666425eaee33"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit102-noaa.rwl",
+    "filesize" : "30016",
+    "MD5" : "08158cceafd5f8abde0a3dbfb02073fe"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/aust005.rwl",
+    "filesize" : "10202",
+    "MD5" : "f33a6884b8695a880a78365db7a5d485"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/aust005-noaa.rwl",
+    "filesize" : "12365",
+    "MD5" : "fc95ae173c9480661e2130330671b72c"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/aust006-noaa.rwl",
+    "filesize" : "12683",
+    "MD5" : "7bcbc943fab145f28c4dc71563054ee7"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/aust006.rwl",
+    "filesize" : "11094",
+    "MD5" : "7a34dcb60c150bd911db333ca2efdfec"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit122-noaa.rwl",
+    "filesize" : "25131",
+    "MD5" : "d1ff67c8a52747996565fc1d79dc460b"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit122.rwl",
+    "filesize" : "27754",
+    "MD5" : "a1c1e43c4759a52cc4b6adb083ab796f"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit110-noaa.rwl",
+    "filesize" : "15145",
+    "MD5" : "a3a463799da8373f07c03260fec2bf5a"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit110.rwl",
+    "filesize" : "11623",
+    "MD5" : "a0ed3673568da41698e9ce9dbbf5f445"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit104-noaa.rwl",
+    "filesize" : "15806",
+    "MD5" : "2c8f4a00b3195ef66049ed652ee54b74"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit104.rwl",
+    "filesize" : "12359",
+    "MD5" : "cfb3d695cda69bad8773af873c5b51af"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit103.rwl",
+    "filesize" : "8930",
+    "MD5" : "53020e985f17c456125aee2fc7dc4874"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit103-noaa.rwl",
+    "filesize" : "13056",
+    "MD5" : "11f9b44e5e36b86ba0677ea1031c51c6"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/aust007-noaa.rwl",
+    "filesize" : "17453",
+    "MD5" : "00becef6678feb24d717ec4853fa9532"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/aust007.rwl",
+    "filesize" : "16607",
+    "MD5" : "8c493d0281adaef95fc5e479c92a8e06"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit114-noaa.rwl",
+    "filesize" : "26066",
+    "MD5" : "11a714d1446174593253971f093af4d7"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit114.rwl",
+    "filesize" : "27774",
+    "MD5" : "db09a660bfb5142487d8c1f7c8cd48fc"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/pola019.rwl",
+    "filesize" : "20730",
+    "MD5" : "933f899c12c5454b3574ea030a6a4003"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/pola019-noaa.rwl",
+    "filesize" : "22285",
+    "MD5" : "7b708ce5415df3c97a6a3eea9d2d561d"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit126.rwl",
+    "filesize" : "25038",
+    "MD5" : "41aaa0453a3a38d40096641dc1654edd"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit126-noaa.rwl",
+    "filesize" : "30617",
+    "MD5" : "ce4c04ca3e77e1b9566ff0cce9d63ade"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/yugo001-noaa.rwl",
+    "filesize" : "29062",
+    "MD5" : "2db1e24a343a6a759dcd353244b8064a"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/yugo001.rwl",
+    "filesize" : "23685",
+    "MD5" : "f9c516ff7aa7bd15744ef1eaa043f18b"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit410-noaa.rwl",
+    "filesize" : "93069",
+    "MD5" : "0565f978b3a351d28c6acda270be9c31"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit410.rwl",
+    "filesize" : "89137",
+    "MD5" : "839db3b0dbc57ef9d4faf67782c996ce"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/czec014.rwl",
+    "filesize" : "50014",
+    "MD5" : "40021ea031e7a767d0304f03154b82e3"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/czec014-noaa.rwl",
+    "filesize" : "48722",
+    "MD5" : "a5700d4afaf2b434900ca1a2fb1a2335"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/czec006-noaa.rwl",
+    "filesize" : "149380",
+    "MD5" : "c3ab7249c97238708e7f6b164868f1dd"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/czec006.rwl",
+    "filesize" : "111983",
+    "MD5" : "797a3103ae495d1903544b4eb1a127fb"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/czec016-noaa.rwl",
+    "filesize" : "58861",
+    "MD5" : "06cb912afb27df6254ae651150daec58"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/czec016.rwl",
+    "filesize" : "43770",
+    "MD5" : "e029f6075ffc342b4ce1af5f6673d67d"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/czec019-noaa.rwl",
+    "filesize" : "39266",
+    "MD5" : "c7c46b121cd80eb8a7ad5c604b3d8546"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/czec019.rwl",
+    "filesize" : "38272",
+    "MD5" : "a01b8d6f3316054436b8043c99527bcc"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/czec025.rwl",
+    "filesize" : "36594",
+    "MD5" : "4811ceca225fbcf7c42838b145be685c"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/czec025-noaa.rwl",
+    "filesize" : "51576",
+    "MD5" : "92e2ebf264254364fe9f1fa6c2f7d43d"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit390-noaa.rwl",
+    "filesize" : "16758",
+    "MD5" : "e81fb450ecd20207ec8e774792ffd30a"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit390.rwl",
+    "filesize" : "13007",
+    "MD5" : "ef7cff72ff0a07feb123c0c7d8a832a6"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit400-noaa.rwl",
+    "filesize" : "16623",
+    "MD5" : "5d336d2442d7a26b635cefd91af2c7ae"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit400.rwl",
+    "filesize" : "16893",
+    "MD5" : "8be6086dc0f9f43fb822f0f69ac5544c"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit406-noaa.rwl",
+    "filesize" : "20450",
+    "MD5" : "2c41f9251e094a7dde94cd6113c80455"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit406.rwl",
+    "filesize" : "14803",
+    "MD5" : "8a1ebe911f2ea3fa453db8554d4ddc42"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit392.rwl",
+    "filesize" : "20381",
+    "MD5" : "19051175186fa9e94c0b50453edc9cc3"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit392-noaa.rwl",
+    "filesize" : "20700",
+    "MD5" : "5c97ba5d5bf8bdff47637414ba8ddcd0"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit394.rwl",
+    "filesize" : "22065",
+    "MD5" : "699afd0afeea9415ba8d0d711950c5c0"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit394-noaa.rwl",
+    "filesize" : "29699",
+    "MD5" : "5bbe137b41e12c459cbced90197b4b89"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit402.rwl",
+    "filesize" : "13089",
+    "MD5" : "a503bb2041dfbbf106ad7a41793501dc"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit402-noaa.rwl",
+    "filesize" : "16373",
+    "MD5" : "e813c26c2ab6b9237ff79747966a9220"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit396.rwl",
+    "filesize" : "13529",
+    "MD5" : "7c0de8d8e556d3818cc4bf7c15a2a205"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit396-noaa.rwl",
+    "filesize" : "17652",
+    "MD5" : "719137205193d9c27648847762c138dd"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit404.rwl",
+    "filesize" : "15177",
+    "MD5" : "ef964ca309a62e0eb3a4a69ed1080ad5"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit404-noaa.rwl",
+    "filesize" : "16349",
+    "MD5" : "7e5693e0a22b7ae049ac0d60ea47ad57"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit398-noaa.rwl",
+    "filesize" : "22536",
+    "MD5" : "0b7cf0de590d1bca6e45fac791bf411a"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/swit398.rwl",
+    "filesize" : "14007",
+    "MD5" : "22606d937cab9e4860d920cd9f11c669"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ108.rwl",
+    "filesize" : "11119",
+    "MD5" : "5c73b1e5f84bc9489e9bdf941d076e3e"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ108-noaa.rwl",
+    "filesize" : "19070",
+    "MD5" : "987da872d21601e9045a4b54376fc898"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ129-noaa.rwl",
+    "filesize" : "13509",
+    "MD5" : "09641396e9cfc72c816ed0d7fff12205"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ129.rwl",
+    "filesize" : "4458",
+    "MD5" : "7e1d451e34d7d195d13efd7117be143f"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ130-noaa.rwl",
+    "filesize" : "10148",
+    "MD5" : "b790f9e34486b1202c5883b3608f8bd5"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ130.rwl",
+    "filesize" : "2624",
+    "MD5" : "7600e5e15ce6fdad03998fadf1716988"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ132-noaa.rwl",
+    "filesize" : "9078",
+    "MD5" : "98209462933f1f27f7303f3bc552ad29"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ132.rwl",
+    "filesize" : "2028",
+    "MD5" : "371acf6fae22eb83beab90cb0776023a"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ033-noaa.rwl",
+    "filesize" : "35208",
+    "MD5" : "ecde5b36effec9c0acbdfb410a8df8b0"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ033.rwl",
+    "filesize" : "28586",
+    "MD5" : "3d473b2f02fd1818902295c47ba5c48b"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ107.rwl",
+    "filesize" : "986",
+    "MD5" : "515504d9814e16350bd0b55736b32c5b"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ107-noaa.rwl",
+    "filesize" : "6855",
+    "MD5" : "969d2e74a47804652a87d809e1653e0c"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ110-noaa.rwl",
+    "filesize" : "30222",
+    "MD5" : "8499cf656937eeb9fec1d5f353ecd79d"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ110.rwl",
+    "filesize" : "15237",
+    "MD5" : "889f765837f98f7152d35d736282d178"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ059.rwl",
+    "filesize" : "11894",
+    "MD5" : "a3c52af77e1771b6bd3b2dea17fe3b91"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ059-noaa.rwl",
+    "filesize" : "15751",
+    "MD5" : "67aa90f20f170c966810ae21585fefd4"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ040-noaa.rwl",
+    "filesize" : "118890",
+    "MD5" : "9b709002a298587c9075d662a87a3596"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ040.rwl",
+    "filesize" : "71768",
+    "MD5" : "ae06f8a9760ee2ebb32acd5a1a385ad2"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ114.rwl",
+    "filesize" : "3973",
+    "MD5" : "9aadae79dc3203767ca2ec1e115d891e"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ114-noaa.rwl",
+    "filesize" : "12560",
+    "MD5" : "32e736d65804198f74d6f4b02a200560"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ115.rwl",
+    "filesize" : "3227",
+    "MD5" : "1608a159f8c2eb4cf910849d45bd62a2"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ115-noaa.rwl",
+    "filesize" : "9862",
+    "MD5" : "250f85ae8db6292a91bda3ebe38bb6aa"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ116-noaa.rwl",
+    "filesize" : "18114",
+    "MD5" : "728990bc9e5c8efa5f78471c5accb650"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ116.rwl",
+    "filesize" : "9705",
+    "MD5" : "ee9c0f2fdf193e12d3cf2e9a77e8c480"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ037-noaa.rwl",
+    "filesize" : "36537",
+    "MD5" : "2b81031e4cc2aa5ea8e24fab72d62138"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ037.rwl",
+    "filesize" : "32520",
+    "MD5" : "5f1ca9156930eec162b85f5bb07fbf17"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ112-noaa.rwl",
+    "filesize" : "11154",
+    "MD5" : "dbeb6ea1fbcaf42f15d0e7dac6141ff8"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ112.rwl",
+    "filesize" : "4365",
+    "MD5" : "debd73b1a92e7e4bbcc22d4258e7d3dd"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ113.rwl",
+    "filesize" : "2645",
+    "MD5" : "a7d199ba582dd411c29f3a5c231447d0"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ113-noaa.rwl",
+    "filesize" : "8961",
+    "MD5" : "bc700447e8691ba9e06474a0b5771558"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ144.rwl",
+    "filesize" : "8715",
+    "MD5" : "204229271e8e17d2fb15976f9c792924"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ144-noaa.rwl",
+    "filesize" : "16826",
+    "MD5" : "bc1b4f5f71af68a6fa84a4d96c51b1be"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ119-noaa.rwl",
+    "filesize" : "12701",
+    "MD5" : "c63febb1eaf1a4c65947033c4d015f3a"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ119.rwl",
+    "filesize" : "5176",
+    "MD5" : "eb5eeec2da49c04a375617d6bac38888"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ121-noaa.rwl",
+    "filesize" : "17375",
+    "MD5" : "a287bdf7afdcc2fae720485c7a707014"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ121.rwl",
+    "filesize" : "8424",
+    "MD5" : "8ae97e2eeb258ce133d473a25a15d437"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ039.rwl",
+    "filesize" : "29582",
+    "MD5" : "b904a62c1dde15103b49f5ad610f6576"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ039-noaa.rwl",
+    "filesize" : "35351",
+    "MD5" : "a822687d5566242e83fdc24b6b08b95d"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ038-noaa.rwl",
+    "filesize" : "28058",
+    "MD5" : "67b8fa08ef3e2644f46723ad72a45c70"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ038.rwl",
+    "filesize" : "22266",
+    "MD5" : "d35643ccb37c3ab35542d990e7b00cd3"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ123-noaa.rwl",
+    "filesize" : "25604",
+    "MD5" : "2730aa9beeefa8134386c6f857d53553"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ123.rwl",
+    "filesize" : "16232",
+    "MD5" : "423c8375488871e42066f0f15a41b649"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ125.rwl",
+    "filesize" : "7489",
+    "MD5" : "8bd56c5bb8e48c2df1905d6b199b43b4"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ125-noaa.rwl",
+    "filesize" : "17062",
+    "MD5" : "4d6bc4e2aedfdd381596f2b8c78150b3"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ126-noaa.rwl",
+    "filesize" : "17964",
+    "MD5" : "c83422d11808be4454f530477c5afdf9"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ126.rwl",
+    "filesize" : "6466",
+    "MD5" : "8491b872863817be76ee5893a22fa554"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ128-noaa.rwl",
+    "filesize" : "11762",
+    "MD5" : "2d9ef132ec520e6f9ce7cd5cfc248abf"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ128.rwl",
+    "filesize" : "3626",
+    "MD5" : "249b19a73a6a779d0230edc31ccc7e8b"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ127-noaa.rwl",
+    "filesize" : "15630",
+    "MD5" : "53226189663eddb90e36b4c373bb93bb"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ127.rwl",
+    "filesize" : "6545",
+    "MD5" : "931eaf7f448969618a3ae5646da93e1e"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ135-noaa.rwl",
+    "filesize" : "13199",
+    "MD5" : "a6a7ce169c0804a84796f33a7315d53d"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ135.rwl",
+    "filesize" : "5058",
+    "MD5" : "51d7fb81c054b654a16d3979d7d9a406"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ035-noaa.rwl",
+    "filesize" : "22556",
+    "MD5" : "98c611f3bcdf60c1458c869571fb81f0"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ035.rwl",
+    "filesize" : "18258",
+    "MD5" : "8e5f592685a684beca2cb230b9780d59"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ109-noaa.rwl",
+    "filesize" : "13124",
+    "MD5" : "394031d1b677c513f955ad5bd2b1dbaa"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ109.rwl",
+    "filesize" : "5870",
+    "MD5" : "fa1219db53da452e5877756334d1cc12"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ122-noaa.rwl",
+    "filesize" : "10463",
+    "MD5" : "5a8ebaa764693e3a32ba0f0306eb7430"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ122.rwl",
+    "filesize" : "3144",
+    "MD5" : "1c6e1291c0149f513ba976ca37312486"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ131-noaa.rwl",
+    "filesize" : "12354",
+    "MD5" : "399d69fd270cf0634a98e500a4436af0"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ131.rwl",
+    "filesize" : "4336",
+    "MD5" : "313954305979ab97ead1eb9a5c3f828d"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ140.rwl",
+    "filesize" : "4717",
+    "MD5" : "149d9241f0eb133aa9c2afcd4524a7d5"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ140-noaa.rwl",
+    "filesize" : "13146",
+    "MD5" : "ab6ecf12a49787153fd746b6bbac9875"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ141-noaa.rwl",
+    "filesize" : "74731",
+    "MD5" : "53bcc92d476fddfdbca30a6d8fe63f5d"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ141.rwl",
+    "filesize" : "34120",
+    "MD5" : "48e2a629f52083f9c68d72554c59372d"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ133-noaa.rwl",
+    "filesize" : "9684",
+    "MD5" : "11576732dafa1c311bafcbf38c70bb62"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ133.rwl",
+    "filesize" : "2580",
+    "MD5" : "5f9f0fb1506842ad76942f476e186346"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ124-noaa.rwl",
+    "filesize" : "10784",
+    "MD5" : "b954650e3131e1bf5a2b3f4407e0f486"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ124.rwl",
+    "filesize" : "2425",
+    "MD5" : "1291f5dffd7186cbffec9a472d51de26"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ134-noaa.rwl",
+    "filesize" : "11749",
+    "MD5" : "73d07ba62b7bf087a81b5c45cc463e30"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ134.rwl",
+    "filesize" : "3472",
+    "MD5" : "b569510c82893663d05ec8539e238f76"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ136.rwl",
+    "filesize" : "2381",
+    "MD5" : "25af755e4ad3b7eab1bd0adbbef605f0"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ136-noaa.rwl",
+    "filesize" : "9412",
+    "MD5" : "59fc89c10403e3e08850de7802799dee"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ137.rwl",
+    "filesize" : "1499",
+    "MD5" : "0b2933e35b049cc70efb978baaee8fd5"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ137-noaa.rwl",
+    "filesize" : "8405",
+    "MD5" : "ab3348331a665ff8b18c2c8ba71c1f10"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ138-noaa.rwl",
+    "filesize" : "15777",
+    "MD5" : "b944738b83d2a1120aa5c904a95f8c2d"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ138.rwl",
+    "filesize" : "9373",
+    "MD5" : "76356425fc93e53fe98c5563ae0dc027"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ139-noaa.rwl",
+    "filesize" : "15509",
+    "MD5" : "005c765e5d752b57b87b5da0548a546e"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ139.rwl",
+    "filesize" : "7718",
+    "MD5" : "eec6ee478fd62779178c1431223ae616"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ036.rwl",
+    "filesize" : "24544",
+    "MD5" : "4e7819357880c942c1a2d2eed641cb1b"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ036-noaa.rwl",
+    "filesize" : "33080",
+    "MD5" : "a37a334caf2b297ce987b948ec39f05e"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ146.rwl",
+    "filesize" : "4441",
+    "MD5" : "f262bcf63c44f561c1e7dd36637cbbfa"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ146-noaa.rwl",
+    "filesize" : "12835",
+    "MD5" : "9a4b1efe3aa6803d9c868b9c8ef5082f"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ111-noaa.rwl",
+    "filesize" : "12343",
+    "MD5" : "d428d83f12dcc16fb090cd960a3cd7ea"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ111.rwl",
+    "filesize" : "5901",
+    "MD5" : "91a77b3dc3771444dbe19657e6db69a6"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ120-noaa.rwl",
+    "filesize" : "16872",
+    "MD5" : "e4d3c1b65ac60e27f7f601ea0afcfede"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ120.rwl",
+    "filesize" : "8679",
+    "MD5" : "a37b7d0937aa80d5bb272ece8ea564df"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ034-noaa.rwl",
+    "filesize" : "45628",
+    "MD5" : "e0849aac7ea09039528006a63247d24e"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ034.rwl",
+    "filesize" : "41596",
+    "MD5" : "030f139134879f2dd94f1ba57fdc677b"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ142-noaa.rwl",
+    "filesize" : "18013",
+    "MD5" : "5e5b757971ce020197993720ff3386bd"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ142.rwl",
+    "filesize" : "7400",
+    "MD5" : "9494d29fcea0bcede8c7448a2f5169df"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ143-noaa.rwl",
+    "filesize" : "10262",
+    "MD5" : "53e426d977bf795232254a1d097230a0"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ143.rwl",
+    "filesize" : "2722",
+    "MD5" : "f08173b0d2e88a9c10f67dc5aa7edec3"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ117.rwl",
+    "filesize" : "1754",
+    "MD5" : "27113753e2640dbfaa6812b53ac4452c"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ117-noaa.rwl",
+    "filesize" : "8597",
+    "MD5" : "201194031106dea802e35dd897e732f4"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ118-noaa.rwl",
+    "filesize" : "11040",
+    "MD5" : "f171fad18f6dc033b6ec0f5f3335642a"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ118.rwl",
+    "filesize" : "3009",
+    "MD5" : "21d944b60e06f01cb17445e1c95bbd96"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ058-noaa.rwl",
+    "filesize" : "26856",
+    "MD5" : "a0c5be37d5ceb1d2d65a3e73d54d24dc"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ058.rwl",
+    "filesize" : "20550",
+    "MD5" : "496b0f31599bf9f33247dd88d815bcc4"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ145-noaa.rwl",
+    "filesize" : "9804",
+    "MD5" : "19795b93c03667f99334f67421d26e28"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ145.rwl",
+    "filesize" : "2428",
+    "MD5" : "0e5bf449b6752e68dfb0906e9fb1d812"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ147-noaa.rwl",
+    "filesize" : "10826",
+    "MD5" : "76569c6a9298b01a25c7ae1ef365b574"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ147.rwl",
+    "filesize" : "3209",
+    "MD5" : "1a56fae559602b5447e4485c7bf3cbfd"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ057-noaa.rwl",
+    "filesize" : "28285",
+    "MD5" : "b2c85a5b3094bb45d472827ecf7a4319"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/germ057.rwl",
+    "filesize" : "27987",
+    "MD5" : "9d5b929f0150643682e344a3a002fe26"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/svk008.rwl",
+    "filesize" : "39454",
+    "MD5" : "44cfa3d2b16c4c37f92821b71f721471"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/svk008-noaa.rwl",
+    "filesize" : "46912",
+    "MD5" : "cbaae3d95e62f6f2fae51ebaec678456"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/svk009.rwl",
+    "filesize" : "84544",
+    "MD5" : "adf302277a5ee12e04a1446daa6429e6"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/svk009-noaa.rwl",
+    "filesize" : "112706",
+    "MD5" : "039eb611dd81f105fdfa67e648c7e58b"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/czec015.rwl",
+    "filesize" : "48652",
+    "MD5" : "1d762f7d45bb90a01edda374bed57224"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/czec015-noaa.rwl",
+    "filesize" : "64551",
+    "MD5" : "ff1caf2cbf1adb14dd659edb57a1de51"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/czec017-noaa.rwl",
+    "filesize" : "71956",
+    "MD5" : "88b366df358664d04683aed93a06dbd3"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/czec017.rwl",
+    "filesize" : "53464",
+    "MD5" : "5cb7a0292bcf872665d00c478576e4e7"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/czec023-noaa.rwl",
+    "filesize" : "55278",
+    "MD5" : "27d8427d21092279f9453190f85bea4a"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/czec023.rwl",
+    "filesize" : "55842",
+    "MD5" : "3f407112ccecea5bdf99ff41f18fc405"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/svk013.rwl",
+    "filesize" : "65726",
+    "MD5" : "74b217a63346b98f8b1300f55c03aff3"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/svk013-noaa.rwl",
+    "filesize" : "79115",
+    "MD5" : "3fe07ebc81d7679a109a3acd3b76c23e"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/czec012.rwl",
+    "filesize" : "41566",
+    "MD5" : "8345fc6596d410385727989b6a54579c"
+  }, {
+    "path" : "data/pub/data/paleo/treering/measurements/europe/czec012-noaa.rwl",
+    "filesize" : "51935",
+    "MD5" : "aa224257ef372df6f3fac1ba26714278"
+  } ],
+  "params" : {
+    "minLon" : "7.5",
+    "cvWhats" : "physical property>width>total ring width",
+    "maxLat" : "55.0",
+    "species" : "PCAB",
+    "minLat" : "45.0",
+    "dataPublisher" : "NOAA",
+    "dataTypeId" : "18",
+    "maxLon" : "22.5"
+  },
+  "matches" : [ {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-2693.json",
+    "studyName" : "Becker - Bayerischer Wald - PCAB - ITRDB GERM14",
+    "sites" : [ {
+      "siteName" : "Bayerischer Wald",
+      "files" : [ {
+        "fileName" : "germ14.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ14.rwl"
+      }, {
+        "fileName" : "germ14-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ14-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-2697.json",
+    "studyName" : "Becker - Beskid Mountains - PCAB - ITRDB CZEC3",
+    "sites" : [ {
+      "siteName" : "Beskid Mountains",
+      "files" : [ {
+        "fileName" : "czec3-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/czec3-noaa.rwl"
+      }, {
+        "fileName" : "czec3.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/czec3.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-2702.json",
+    "studyName" : "Becker - Kreuth - PCAB - ITRDB GERM11",
+    "sites" : [ {
+      "siteName" : "Kreuth",
+      "files" : [ {
+        "fileName" : "germ11-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ11-noaa.rwl"
+      }, {
+        "fileName" : "germ11.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ11.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-2708.json",
+    "studyName" : "Becker - Rothenkirchen - PCAB - ITRDB GERM16",
+    "sites" : [ {
+      "siteName" : "Rothenkirchen",
+      "files" : [ {
+        "fileName" : "germ16-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ16-noaa.rwl"
+      }, {
+        "fileName" : "germ16.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ16.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-2713.json",
+    "studyName" : "Becker - Schussbach - PCAB - ITRDB GERM17",
+    "sites" : [ {
+      "siteName" : "Schussbach",
+      "files" : [ {
+        "fileName" : "germ17-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ17-noaa.rwl"
+      }, {
+        "fileName" : "germ17.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ17.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-2715.json",
+    "studyName" : "Becker - Villingen - PCAB - ITRDB GERM18",
+    "sites" : [ {
+      "siteName" : "Villingen",
+      "files" : [ {
+        "fileName" : "germ18.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ18.rwl"
+      }, {
+        "fileName" : "germ18-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ18-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-6119.json",
+    "studyName" : "Bigler - Bergün GR Val Tuors - PCAB - ITRDB SWIT186",
+    "sites" : [ {
+      "siteName" : "Bergün GR Val Tuors",
+      "files" : [ {
+        "fileName" : "swit186-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit186-noaa.rwl"
+      }, {
+        "fileName" : "swit186.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit186.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-2735.json",
+    "studyName" : "Bigler - Brigels GR Scatle - PCAB - ITRDB SWIT180",
+    "sites" : [ {
+      "siteName" : "Brigels GR Scatle",
+      "files" : [ {
+        "fileName" : "swit180-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit180-noaa.rwl"
+      }, {
+        "fileName" : "swit180.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit180.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-2736.json",
+    "studyName" : "Bigler - Davos GR Dischma-Fluela - PCAB - ITRDB SWIT181",
+    "sites" : [ {
+      "siteName" : "Davos GR Dischma-Fluela",
+      "files" : [ {
+        "fileName" : "swit181-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit181-noaa.rwl"
+      }, {
+        "fileName" : "swit181.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit181.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-2737.json",
+    "studyName" : "Bigler - Davos GR Sertig - PCAB - ITRDB SWIT179",
+    "sites" : [ {
+      "siteName" : "Davos GR Sertig",
+      "files" : [ {
+        "fileName" : "swit179-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit179-noaa.rwl"
+      }, {
+        "fileName" : "swit179.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit179.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-8495.json",
+    "studyName" : "Bigler - Glarus GL - PCAB - ITRDB SWIT189",
+    "sites" : [ {
+      "siteName" : "Glarus GL",
+      "files" : [ {
+        "fileName" : "swit189.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit189.rwl"
+      }, {
+        "fileName" : "swit189-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit189-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-16840.json",
+    "studyName" : "Bigler - Grindelwald BE Mettla - PCAB - ITRDB SWIT279",
+    "sites" : [ {
+      "siteName" : "Grindelwald BE Mettla",
+      "files" : [ {
+        "fileName" : "swit279.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit279.rwl"
+      }, {
+        "fileName" : "swit279-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit279-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-5504.json",
+    "studyName" : "Bigler - Muotathal SZ Bödmerenwald - PCAB - ITRDB SWIT184",
+    "sites" : [ {
+      "siteName" : "Muotathal SZ Bödmerenwald",
+      "files" : [ {
+        "fileName" : "swit184.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit184.rwl"
+      }, {
+        "fileName" : "swit184-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit184-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-8499.json",
+    "studyName" : "Bigler - Vals GR Riefawald - PCAB - ITRDB SWIT193",
+    "sites" : [ {
+      "siteName" : "Vals GR Riefawald",
+      "files" : [ {
+        "fileName" : "swit193.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit193.rwl"
+      }, {
+        "fileName" : "swit193-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit193-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-14089.json",
+    "studyName" : "Bräker - Alp Holzmatten - PCAB - ITRDB SWIT253",
+    "sites" : [ {
+      "siteName" : "Alp Holzmatten",
+      "files" : [ {
+        "fileName" : "swit253-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit253-noaa.rwl"
+      }, {
+        "fileName" : "swit253.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit253.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-10777.json",
+    "studyName" : "Bräker - Baden - PCAB - ITRDB SWIT206",
+    "sites" : [ {
+      "siteName" : "Baden",
+      "files" : [ {
+        "fileName" : "swit206.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit206.rwl"
+      }, {
+        "fileName" : "swit206-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit206-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-16865.json",
+    "studyName" : "Bräker - Biglenwald - PCAB - ITRDB SWIT299",
+    "sites" : [ {
+      "siteName" : "Biglenwald",
+      "files" : [ {
+        "fileName" : "swit299-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit299-noaa.rwl"
+      }, {
+        "fileName" : "swit299.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit299.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-14094.json",
+    "studyName" : "Bräker - Erlenhoehe - PCAB - ITRDB SWIT258",
+    "sites" : [ {
+      "siteName" : "Erlenhoehe",
+      "files" : [ {
+        "fileName" : "swit258.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit258.rwl"
+      }, {
+        "fileName" : "swit258-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit258-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-14102.json",
+    "studyName" : "Bräker - Gandberg - PCAB - ITRDB SWIT266",
+    "sites" : [ {
+      "siteName" : "Gandberg",
+      "files" : [ {
+        "fileName" : "swit266-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit266-noaa.rwl"
+      }, {
+        "fileName" : "swit266.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit266.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-16907.json",
+    "studyName" : "Bräker - Habrichtswald - PCAB - ITRDB SWIT334",
+    "sites" : [ {
+      "siteName" : "Habrichtswald",
+      "files" : [ {
+        "fileName" : "swit334.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit334.rwl"
+      }, {
+        "fileName" : "swit334-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit334-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-16915.json",
+    "studyName" : "Bräker - Habrichtswald ST - PCAB - ITRDB SWIT340",
+    "sites" : [ {
+      "siteName" : "Habrichtswald",
+      "files" : [ {
+        "fileName" : "swit340-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit340-noaa.rwl"
+      }, {
+        "fileName" : "swit340.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit340.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-14068.json",
+    "studyName" : "Bräker - Haslenau - PCAB - ITRDB SWIT249",
+    "sites" : [ {
+      "siteName" : "Haslenau",
+      "files" : [ {
+        "fileName" : "swit249.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit249.rwl"
+      }, {
+        "fileName" : "swit249-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit249-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-16899.json",
+    "studyName" : "Bräker - Rauchgrat - PCAB - ITRDB SWIT326",
+    "sites" : [ {
+      "siteName" : "Rauchgrat",
+      "files" : [ {
+        "fileName" : "swit326.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit326.rwl"
+      }, {
+        "fileName" : "swit326-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit326-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-16930.json",
+    "studyName" : "Bräker - Vorhegi - PCAB - ITRDB SWIT356",
+    "sites" : [ {
+      "siteName" : "Vorhegi",
+      "files" : [ {
+        "fileName" : "swit356.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit356.rwl"
+      }, {
+        "fileName" : "swit356-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit356-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-10718.json",
+    "studyName" : "Büntgen - BabiaGora - PCAB - ITRDB POLA022",
+    "sites" : [ {
+      "siteName" : "BabiaGora",
+      "files" : [ {
+        "fileName" : "pola022-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/pola022-noaa.rwl"
+      }, {
+        "fileName" : "pola022.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/pola022.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-13998.json",
+    "studyName" : "Büntgen - DolinaChoch - PCAB - ITRDB POLA023",
+    "sites" : [ {
+      "siteName" : "DolinaChoch",
+      "files" : [ {
+        "fileName" : "pola023-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/pola023-noaa.rwl"
+      }, {
+        "fileName" : "pola023.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/pola023.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-14000.json",
+    "studyName" : "Büntgen - DolinaPanszczycka - PCAB - ITRDB POLA025",
+    "sites" : [ {
+      "siteName" : "DolinaPanszczycka",
+      "files" : [ {
+        "fileName" : "pola025.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/pola025.rwl"
+      }, {
+        "fileName" : "pola025-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/pola025-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-14001.json",
+    "studyName" : "Büntgen - DolinaRygbiego - PCAB - ITRDB POLA026",
+    "sites" : [ {
+      "siteName" : "DolinaRygbiego",
+      "files" : [ {
+        "fileName" : "pola026.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/pola026.rwl"
+      }, {
+        "fileName" : "pola026-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/pola026-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-14002.json",
+    "studyName" : "Büntgen - DolinaSuchejwody - PCAB - ITRDB POLA027",
+    "sites" : [ {
+      "siteName" : "DolinaSuchejwody",
+      "files" : [ {
+        "fileName" : "pola027.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/pola027.rwl"
+      }, {
+        "fileName" : "pola027-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/pola027-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-14003.json",
+    "studyName" : "Büntgen - DolinaWaksmunska - PCAB - ITRDB POLA028",
+    "sites" : [ {
+      "siteName" : "DolinaWaksmunska",
+      "files" : [ {
+        "fileName" : "pola028-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/pola028-noaa.rwl"
+      }, {
+        "fileName" : "pola028.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/pola028.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-14004.json",
+    "studyName" : "Büntgen - Gorce - PCAB - ITRDB POLA029",
+    "sites" : [ {
+      "siteName" : "Gorce",
+      "files" : [ {
+        "fileName" : "pola029-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/pola029-noaa.rwl"
+      }, {
+        "fileName" : "pola029.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/pola029.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-14092.json",
+    "studyName" : "Büntgen - Hopflsteig 494 - PCAB - ITRDB SWIT256",
+    "sites" : [ {
+      "siteName" : "Hopflsteig",
+      "files" : [ {
+        "fileName" : "swit256.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit256.rwl"
+      }, {
+        "fileName" : "swit256-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit256-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-14010.json",
+    "studyName" : "Büntgen - Kosodrovina - PCAB - ITRDB SVK002",
+    "sites" : [ {
+      "siteName" : "Kosodrovina",
+      "files" : [ {
+        "fileName" : "svk002-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/svk002-noaa.rwl"
+      }, {
+        "fileName" : "svk002.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/svk002.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-16805.json",
+    "studyName" : "Büntgen - NovaPolinka - PCAB - ITRDB SVK004",
+    "sites" : [ {
+      "siteName" : "NovaPolinka",
+      "files" : [ {
+        "fileName" : "svk004.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/svk004.rwl"
+      }, {
+        "fileName" : "svk004-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/svk004-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-16778.json",
+    "studyName" : "Büntgen - Pilsko - PCAB - ITRDB POLA030",
+    "sites" : [ {
+      "siteName" : "Pilsko",
+      "files" : [ {
+        "fileName" : "pola030-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/pola030-noaa.rwl"
+      }, {
+        "fileName" : "pola030.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/pola030.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-16784.json",
+    "studyName" : "Büntgen - RotztokiDobrawoda - PCAB - ITRDB POLA036",
+    "sites" : [ {
+      "siteName" : "RotztokiDobrawoda",
+      "files" : [ {
+        "fileName" : "pola036-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/pola036-noaa.rwl"
+      }, {
+        "fileName" : "pola036.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/pola036.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-16781.json",
+    "studyName" : "Büntgen - RotztokiNowarotztoka - PCAB - ITRDB POLA033",
+    "sites" : [ {
+      "siteName" : "RotztokiNowarotztoka",
+      "files" : [ {
+        "fileName" : "pola033.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/pola033.rwl"
+      }, {
+        "fileName" : "pola033-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/pola033-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-16780.json",
+    "studyName" : "Büntgen - RotztokiPodczub - PCAB - ITRDB POLA032",
+    "sites" : [ {
+      "siteName" : "RotztokiPodczub",
+      "files" : [ {
+        "fileName" : "pola032-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/pola032-noaa.rwl"
+      }, {
+        "fileName" : "pola032.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/pola032.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-16783.json",
+    "studyName" : "Büntgen - RotztokiWooszyn - PCAB - ITRDB POLA035",
+    "sites" : [ {
+      "siteName" : "RotztokiWooszyn",
+      "files" : [ {
+        "fileName" : "pola035-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/pola035-noaa.rwl"
+      }, {
+        "fileName" : "pola035.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/pola035.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-16782.json",
+    "studyName" : "Büntgen - Rygiebopotokusza - PCAB - ITRDB POLA034",
+    "sites" : [ {
+      "siteName" : "Rygiebopotokusza",
+      "files" : [ {
+        "fileName" : "pola034-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/pola034-noaa.rwl"
+      }, {
+        "fileName" : "pola034.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/pola034.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-16779.json",
+    "studyName" : "Büntgen - Rygiebopotokuwos - PCAB - ITRDB POLA031",
+    "sites" : [ {
+      "siteName" : "Rygiebopotokuwos",
+      "files" : [ {
+        "fileName" : "pola031.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/pola031.rwl"
+      }, {
+        "fileName" : "pola031-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/pola031-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-16806.json",
+    "studyName" : "Büntgen - Tale - PCAB - ITRDB SVK005",
+    "sites" : [ {
+      "siteName" : "Tale",
+      "files" : [ {
+        "fileName" : "svk005-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/svk005-noaa.rwl"
+      }, {
+        "fileName" : "svk005.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/svk005.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-16785.json",
+    "studyName" : "Büntgen - Zolta Turina - PCAB - ITRDB POLA037",
+    "sites" : [ {
+      "siteName" : "Zolta Turina",
+      "files" : [ {
+        "fileName" : "pola037-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/pola037-noaa.rwl"
+      }, {
+        "fileName" : "pola037.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/pola037.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-10774.json",
+    "studyName" : "Cherubini - Alptal AT - PCAB - ITRDB SWIT203",
+    "sites" : [ {
+      "siteName" : "Alptal AT",
+      "files" : [ {
+        "fileName" : "swit203.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit203.rwl"
+      }, {
+        "fileName" : "swit203-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit203-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-10786.json",
+    "studyName" : "Cherubini - Beatenberg - PCAB - ITRDB SWIT215",
+    "sites" : [ {
+      "siteName" : "Beatenberg CH",
+      "files" : [ {
+        "fileName" : "swit215.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit215.rwl"
+      }, {
+        "fileName" : "swit215-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit215-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12793.json",
+    "studyName" : "Cherubini - Chironico - PCAB - ITRDB SWIT222",
+    "sites" : [ {
+      "siteName" : "Chironico",
+      "files" : [ {
+        "fileName" : "swit222.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit222.rwl"
+      }, {
+        "fileName" : "swit222-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit222-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-14038.json",
+    "studyName" : "Conedera - Pian di Né Copera - PCAB - ITRDB SWIT226",
+    "sites" : [ {
+      "siteName" : "Pian di Né Copera",
+      "files" : [ {
+        "fileName" : "swit226-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit226-noaa.rwl"
+      }, {
+        "fileName" : "swit226.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit226.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-30739.json",
+    "studyName" : "Esper - Hallgarten - PCAB - ITRDB GERM234",
+    "sites" : [ {
+      "siteName" : "Hallgarten",
+      "files" : [ {
+        "fileName" : "germ234-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ234-noaa.rwl"
+      }, {
+        "fileName" : "germ234.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ234.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-30738.json",
+    "studyName" : "Esper - Hallgarter Zange - PCAB - ITRDB GERM233",
+    "sites" : [ {
+      "siteName" : "Hallgarter Zange",
+      "files" : [ {
+        "fileName" : "germ233-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ233-noaa.rwl"
+      }, {
+        "fileName" : "germ233.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ233.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-30732.json",
+    "studyName" : "Esper - Kirchhundem - PCAB - ITRDB GERM227",
+    "sites" : [ {
+      "siteName" : "Kirchhundem",
+      "files" : [ {
+        "fileName" : "germ227-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ227-noaa.rwl"
+      }, {
+        "fileName" : "germ227.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ227.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-30735.json",
+    "studyName" : "Esper - Kleiner Feldberg - PCAB - ITRDB GERM230",
+    "sites" : [ {
+      "siteName" : "Kleiner Feldberg",
+      "files" : [ {
+        "fileName" : "germ230-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ230-noaa.rwl"
+      }, {
+        "fileName" : "germ230.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ230.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-30742.json",
+    "studyName" : "Esper - Laubach - PCAB - ITRDB GERM237",
+    "sites" : [ {
+      "siteName" : "Laubach/Hunsruck",
+      "files" : [ {
+        "fileName" : "germ237.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ237.rwl"
+      }, {
+        "fileName" : "germ237-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ237-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-30741.json",
+    "studyName" : "Esper - Laubach/Hunsruck - PCAB - ITRDB GERM236",
+    "sites" : [ {
+      "siteName" : "Laubach/Hunsruck",
+      "files" : [ {
+        "fileName" : "germ236.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ236.rwl"
+      }, {
+        "fileName" : "germ236-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ236-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-30746.json",
+    "studyName" : "Esper - Westerwald - PCAB - ITRDB GERM241",
+    "sites" : [ {
+      "siteName" : "Westerwald",
+      "files" : [ {
+        "fileName" : "germ241.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ241.rwl"
+      }, {
+        "fileName" : "germ241-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ241-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-30747.json",
+    "studyName" : "Esper - Westerwald 3 - PCAB - ITRDB GERM242",
+    "sites" : [ {
+      "siteName" : "Westerwald 3",
+      "files" : [ {
+        "fileName" : "germ242-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ242-noaa.rwl"
+      }, {
+        "fileName" : "germ242.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ242.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-30748.json",
+    "studyName" : "Esper - Westerwald 4 - PCAB - ITRDB GERM243",
+    "sites" : [ {
+      "siteName" : "Westerwald",
+      "files" : [ {
+        "fileName" : "germ243-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ243-noaa.rwl"
+      }, {
+        "fileName" : "germ243.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ243.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-30749.json",
+    "studyName" : "Esper - Westerwald 5 - PCAB - ITRDB GERM244",
+    "sites" : [ {
+      "siteName" : "Westerwald 5",
+      "files" : [ {
+        "fileName" : "germ244-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ244-noaa.rwl"
+      }, {
+        "fileName" : "germ244.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ244.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-30750.json",
+    "studyName" : "Esper - Westerwald 8 - PCAB - ITRDB GERM245",
+    "sites" : [ {
+      "siteName" : "Westerwald 8",
+      "files" : [ {
+        "fileName" : "germ245-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ245-noaa.rwl"
+      }, {
+        "fileName" : "germ245.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ245.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-30751.json",
+    "studyName" : "Esper - Westerwald 9 - PCAB - ITRDB GERM246",
+    "sites" : [ {
+      "siteName" : "Westerwald 9",
+      "files" : [ {
+        "fileName" : "germ246-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ246-noaa.rwl"
+      }, {
+        "fileName" : "germ246.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ246.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-3218.json",
+    "studyName" : "Feliksik - Hala Gasienicowa - PCAB - ITRDB POLA001",
+    "sites" : [ {
+      "siteName" : "Hala Gasienicowa",
+      "files" : [ {
+        "fileName" : "pola001.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/pola001.rwl"
+      }, {
+        "fileName" : "pola001-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/pola001-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-16669.json",
+    "studyName" : "Fischer - Hessen/Kellerwald dhk35 - PCAB - ITRDB GERM159",
+    "sites" : [ {
+      "siteName" : "Hessen/Kellerwald dhk35",
+      "files" : [ {
+        "fileName" : "germ159-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ159-noaa.rwl"
+      }, {
+        "fileName" : "germ159.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ159.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-16706.json",
+    "studyName" : "Fischer - Nordrhein-Westfalen/Haiger-Siegerland drh01 - PCAB - ITRDB GERM189",
+    "sites" : [ {
+      "siteName" : "Nordrhein-Westfalen/Haiger-Siegerland drh01",
+      "files" : [ {
+        "fileName" : "germ189.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ189.rwl"
+      }, {
+        "fileName" : "germ189-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ189-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-16709.json",
+    "studyName" : "Fischer - Nordrhein-Westfalen/Haiger-Siegerland drh04 - PCAB - ITRDB GERM192",
+    "sites" : [ {
+      "siteName" : "Nordrhein-Westfalen/Haiger-Siegerland drh04",
+      "files" : [ {
+        "fileName" : "germ192-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ192-noaa.rwl"
+      }, {
+        "fileName" : "germ192.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ192.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-16742.json",
+    "studyName" : "Fischer - Nordrhein-Westfalen/Rothaargebirge dro03 - PCAB - ITRDB GERM208",
+    "sites" : [ {
+      "siteName" : "Nordrhein-Westfalen/Rothaargebirge dro03",
+      "files" : [ {
+        "fileName" : "germ208.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ208.rwl"
+      }, {
+        "fileName" : "germ208-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ208-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-16905.json",
+    "studyName" : "Fonti - San Bernardino - PCAB - ITRDB SWIT332",
+    "sites" : [ {
+      "siteName" : "San Bernardino",
+      "files" : [ {
+        "fileName" : "swit332.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit332.rwl"
+      }, {
+        "fileName" : "swit332-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit332-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-3295.json",
+    "studyName" : "Giertz - Obergurgl - PCAB - ITRDB AUST003",
+    "sites" : [ {
+      "siteName" : "Obergurgl",
+      "files" : [ {
+        "fileName" : "aust003-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/aust003-noaa.rwl"
+      }, {
+        "fileName" : "aust003.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/aust003.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-33056.json",
+    "studyName" : "Gstoehl - Tinizong-Rona Marteloskop Spegnas-Nord - PCAB - ITRDB SWIT408",
+    "sites" : [ {
+      "siteName" : "Tinizong-Rona Marteloskop Spegnas-Nord",
+      "files" : [ {
+        "fileName" : "swit408-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit408-noaa.rwl"
+      }, {
+        "fileName" : "swit408.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit408.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-28574.json",
+    "studyName" : "Gut - Alpthal-Furggelenstock - PCAB - ITRDB SWIT372",
+    "sites" : [ {
+      "siteName" : "Alpthal-Furggelenstock",
+      "files" : [ {
+        "fileName" : "swit372-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit372-noaa.rwl"
+      }, {
+        "fileName" : "swit372.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit372.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-28575.json",
+    "studyName" : "Gut - Elm-Gandwald - PCAB - ITRDB SWIT373",
+    "sites" : [ {
+      "siteName" : "Elm-Gandwald",
+      "files" : [ {
+        "fileName" : "swit373-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit373-noaa.rwl"
+      }, {
+        "fileName" : "swit373.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit373.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-28581.json",
+    "studyName" : "Gut - Elm-Raminerwald - PCAB - ITRDB SWIT379",
+    "sites" : [ {
+      "siteName" : "Elm-Raminerwald",
+      "files" : [ {
+        "fileName" : "swit379-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit379-noaa.rwl"
+      }, {
+        "fileName" : "swit379.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit379.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-28571.json",
+    "studyName" : "Gut - Eschenbach-Cholwald - PCAB - ITRDB SWIT369",
+    "sites" : [ {
+      "siteName" : "Eschenbach-Cholwald",
+      "files" : [ {
+        "fileName" : "swit369.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit369.rwl"
+      }, {
+        "fileName" : "swit369-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit369-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-28572.json",
+    "studyName" : "Gut - Eschenbach-Eggwald - PCAB - ITRDB SWIT370",
+    "sites" : [ {
+      "siteName" : "Eschenbach-Eggwald",
+      "files" : [ {
+        "fileName" : "swit370-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit370-noaa.rwl"
+      }, {
+        "fileName" : "swit370.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit370.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-28573.json",
+    "studyName" : "Gut - Feusisberg-Friesischwand - PCAB - ITRDB SWIT371",
+    "sites" : [ {
+      "siteName" : "Feusisberg-Friesischwand",
+      "files" : [ {
+        "fileName" : "swit371-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit371-noaa.rwl"
+      }, {
+        "fileName" : "swit371.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit371.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-28578.json",
+    "studyName" : "Gut - Glarus-Haltenwald - PCAB - ITRDB SWIT376",
+    "sites" : [ {
+      "siteName" : "Glarus-Haltenwald",
+      "files" : [ {
+        "fileName" : "swit376-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit376-noaa.rwl"
+      }, {
+        "fileName" : "swit376.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit376.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-28582.json",
+    "studyName" : "Gut - Gommiswald-Steibruch - PCAB - ITRDB SWIT380",
+    "sites" : [ {
+      "siteName" : "Gommiswald-Steibruch",
+      "files" : [ {
+        "fileName" : "swit380-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit380-noaa.rwl"
+      }, {
+        "fileName" : "swit380.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit380.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-28576.json",
+    "studyName" : "Gut - Oberiberg-Gschwaendwald - PCAB - ITRDB SWIT374",
+    "sites" : [ {
+      "siteName" : "Oberiberg-Gschwaendwald",
+      "files" : [ {
+        "fileName" : "swit374.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit374.rwl"
+      }, {
+        "fileName" : "swit374-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit374-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-28570.json",
+    "studyName" : "Gut - Schmerikon-Bannwald - PCAB - ITRDB SWIT368",
+    "sites" : [ {
+      "siteName" : "Schmerikon-Bannwald",
+      "files" : [ {
+        "fileName" : "swit368-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit368-noaa.rwl"
+      }, {
+        "fileName" : "swit368.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit368.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-32393.json",
+    "studyName" : "Gut - Sihlwald-Albisboden - PCAB - ITRDB SWIT383",
+    "sites" : [ {
+      "siteName" : "Sihlwald-Albisboden",
+      "files" : [ {
+        "fileName" : "swit383-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit383-noaa.rwl"
+      }, {
+        "fileName" : "swit383.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit383.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-28583.json",
+    "studyName" : "Gut - Sihlwald-Streuboden - PCAB - ITRDB SWIT381",
+    "sites" : [ {
+      "siteName" : "Sihlwald-Streuboden",
+      "files" : [ {
+        "fileName" : "swit381.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit381.rwl"
+      }, {
+        "fileName" : "swit381-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit381-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-28577.json",
+    "studyName" : "Gut - Sool-Hohwald - PCAB - ITRDB SWIT375",
+    "sites" : [ {
+      "siteName" : "Sool-Hohwald",
+      "files" : [ {
+        "fileName" : "swit375-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit375-noaa.rwl"
+      }, {
+        "fileName" : "swit375.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit375.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-28580.json",
+    "studyName" : "Gut - Sool-Nuebaennli - PCAB - ITRDB SWIT378",
+    "sites" : [ {
+      "siteName" : "Sool-Nuebaennli",
+      "files" : [ {
+        "fileName" : "swit378-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit378-noaa.rwl"
+      }, {
+        "fileName" : "swit378.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit378.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-28584.json",
+    "studyName" : "Gut - Spiringen-Waengiwald - PCAB - ITRDB SWIT382",
+    "sites" : [ {
+      "siteName" : "Spiringen-Waengiwald",
+      "files" : [ {
+        "fileName" : "swit382-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit382-noaa.rwl"
+      }, {
+        "fileName" : "swit382.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit382.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-28579.json",
+    "studyName" : "Gut - Unteriberg-Karenstockwald - PCAB - ITRDB SWIT377",
+    "sites" : [ {
+      "siteName" : "Unteriberg-Karenstockwald",
+      "files" : [ {
+        "fileName" : "swit377.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit377.rwl"
+      }, {
+        "fileName" : "swit377-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit377-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-3559.json",
+    "studyName" : "Huesken - Fodara Vedla Alm - PCAB - ITRDB ITAL025",
+    "sites" : [ {
+      "siteName" : "Fodara Vedla Alm",
+      "files" : [ {
+        "fileName" : "ital025.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/ital025.rwl"
+      }, {
+        "fileName" : "ital025-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/ital025-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-30743.json",
+    "studyName" : "Klippel - Pfalzer Wald - PCAB - ITRDB GERM238",
+    "sites" : [ {
+      "siteName" : "Pfalzer Wald",
+      "files" : [ {
+        "fileName" : "germ238-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ238-noaa.rwl"
+      }, {
+        "fileName" : "germ238.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ238.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-33452.json",
+    "studyName" : "Masek - Bile Labe - PCAB - ITRDB CZEC007",
+    "sites" : [ {
+      "siteName" : "Bile Labe",
+      "files" : [ {
+        "fileName" : "czec007-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/czec007-noaa.rwl"
+      }, {
+        "fileName" : "czec007.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/czec007.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-33455.json",
+    "studyName" : "Masek - Modry dul - PCAB - ITRDB CZEC010",
+    "sites" : [ {
+      "siteName" : "Modry dul",
+      "files" : [ {
+        "fileName" : "czec010-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/czec010-noaa.rwl"
+      }, {
+        "fileName" : "czec010.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/czec010.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-33060.json",
+    "studyName" : "Meile - Sachseln Heitlistock - PCAB - ITRDB SWIT412",
+    "sites" : [ {
+      "siteName" : "Sachseln Heitlistock",
+      "files" : [ {
+        "fileName" : "swit412-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit412-noaa.rwl"
+      }, {
+        "fileName" : "swit412.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit412.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-33057.json",
+    "studyName" : "Opiasa - Sedrun Uaul Prau Nausch - PCAB - ITRDB SWIT409",
+    "sites" : [ {
+      "siteName" : "Sedrun Uaul Prau Nausch",
+      "files" : [ {
+        "fileName" : "swit409.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit409.rwl"
+      }, {
+        "fileName" : "swit409-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit409-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-9975.json",
+    "studyName" : "Ratcliff - Chilton English Double Bass - PCAB - ITRDB SWIT194",
+    "sites" : [ {
+      "siteName" : "Chilton English Double Bass",
+      "files" : [ {
+        "fileName" : "swit194.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit194.rwl"
+      }, {
+        "fileName" : "swit194-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit194-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-8535.json",
+    "studyName" : "Ratcliff - Mittenwald Johannes Jais Violin - PCAB - ITRDB GERM064",
+    "sites" : [ {
+      "siteName" : "Mittenwald Johannes Jais Violin",
+      "files" : [ {
+        "fileName" : "germ064.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ064.rwl"
+      }, {
+        "fileName" : "germ064-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ064-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-8536.json",
+    "studyName" : "Ratcliff - Mittenwald Neuner School Violin 1 - PCAB - ITRDB GERM062",
+    "sites" : [ {
+      "siteName" : "Mittenwald Neuner School Violin 1",
+      "files" : [ {
+        "fileName" : "germ062.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ062.rwl"
+      }, {
+        "fileName" : "germ062-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ062-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-8537.json",
+    "studyName" : "Ratcliff - Mittenwald Neuner School Violin 2 - PCAB - ITRDB GERM063",
+    "sites" : [ {
+      "siteName" : "Mittenwald Neuner School Violin 2",
+      "files" : [ {
+        "fileName" : "germ063.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ063.rwl"
+      }, {
+        "fileName" : "germ063-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ063-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-34756.json",
+    "studyName" : "Rydval - Chopok - PCAB - ITRDB SVK007",
+    "sites" : [ {
+      "siteName" : "Chopok",
+      "files" : [ {
+        "fileName" : "svk007.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/svk007.rwl"
+      }, {
+        "fileName" : "svk007-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/svk007-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-34934.json",
+    "studyName" : "Rydval - Rabštejn - PCAB - ITRDB CZEC021",
+    "sites" : [ {
+      "siteName" : "Rabštejn",
+      "files" : [ {
+        "fileName" : "czec021-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/czec021-noaa.rwl"
+      }, {
+        "fileName" : "czec021.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/czec021.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-34940.json",
+    "studyName" : "Rydval - Stříbrné stěny - PCAB - ITRDB CZEC026",
+    "sites" : [ {
+      "siteName" : "Stříbrné stěny",
+      "files" : [ {
+        "fileName" : "czec026.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/czec026.rwl"
+      }, {
+        "fileName" : "czec026-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/czec026-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-19262.json",
+    "studyName" : "Samonil - Zofinsky prales - PCAB - ITRDB CZEC005",
+    "sites" : [ {
+      "siteName" : "Zofinsky prales",
+      "files" : [ {
+        "fileName" : "czec005-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/czec005-noaa.rwl"
+      }, {
+        "fileName" : "czec005.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/czec005.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-4283.json",
+    "studyName" : "Sander - Krkonose Mountains Up. Labe Valley N. Slope - PCAB - ITRDB CZEC001",
+    "sites" : [ {
+      "siteName" : "Krkonose Mountains Upper Labe Valley Northern Slope",
+      "files" : [ {
+        "fileName" : "czec001-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/czec001-noaa.rwl"
+      }, {
+        "fileName" : "czec001.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/czec001.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-4284.json",
+    "studyName" : "Sander - Krkonose Mountains Up. Labe Valley S. Slope - PCAB - ITRDB CZEC002",
+    "sites" : [ {
+      "siteName" : "Krkonose Mountains Upper Labe Valley Southern Slope",
+      "files" : [ {
+        "fileName" : "czec002-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/czec002-noaa.rwl"
+      }, {
+        "fileName" : "czec002.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/czec002.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-4309.json",
+    "studyName" : "Schweingruber - Andreasberg Harz Schluft - PCAB - ITRDB GERM020",
+    "sites" : [ {
+      "siteName" : "Andreasberg Harz Schluft",
+      "files" : [ {
+        "fileName" : "germ020.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ020.rwl"
+      }, {
+        "fileName" : "germ020-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ020-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-4315.json",
+    "studyName" : "Schweingruber - Arosa GR Arlenwald South - PCAB - ITRDB SWIT108",
+    "sites" : [ {
+      "siteName" : "Arosa GR Arlenwald South",
+      "files" : [ {
+        "fileName" : "swit108.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit108.rwl"
+      }, {
+        "fileName" : "swit108-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit108-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-4316.json",
+    "studyName" : "Schweingruber - Arosa GR Rot Tritt North - PCAB - ITRDB SWIT107",
+    "sites" : [ {
+      "siteName" : "Arosa GR Rot Tritt North",
+      "files" : [ {
+        "fileName" : "swit107.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit107.rwl"
+      }, {
+        "fileName" : "swit107-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit107-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-4335.json",
+    "studyName" : "Schweingruber - Bannwald North - PCAB - ITRDB SWIT120",
+    "sites" : [ {
+      "siteName" : "Bannwald North",
+      "files" : [ {
+        "fileName" : "swit120-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit120-noaa.rwl"
+      }, {
+        "fileName" : "swit120.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit120.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-4336.json",
+    "studyName" : "Schweingruber - Bannwald Sud Fichte - PCAB - ITRDB SWIT117",
+    "sites" : [ {
+      "siteName" : "Bannwald Sud Fichte",
+      "files" : [ {
+        "fileName" : "swit117-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit117-noaa.rwl"
+      }, {
+        "fileName" : "swit117.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit117.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-4348.json",
+    "studyName" : "Schweingruber - Blumone Malga - PCAB - ITRDB ITAL014",
+    "sites" : [ {
+      "siteName" : "Blumone Malga",
+      "files" : [ {
+        "fileName" : "ital014.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/ital014.rwl"
+      }, {
+        "fileName" : "ital014-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/ital014-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-4360.json",
+    "studyName" : "Schweingruber - Burchen Bielwald - PCAB - ITRDB SWIT124",
+    "sites" : [ {
+      "siteName" : "Burchen Bielwald",
+      "files" : [ {
+        "fileName" : "swit124-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit124-noaa.rwl"
+      }, {
+        "fileName" : "swit124.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit124.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-4390.json",
+    "studyName" : "Schweingruber - Cortina d'Ampezzo - PCAB - ITRDB ITAL006",
+    "sites" : [ {
+      "siteName" : "Cortina d'Ampezzo",
+      "files" : [ {
+        "fileName" : "ital006.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/ital006.rwl"
+      }, {
+        "fileName" : "ital006-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/ital006-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-4391.json",
+    "studyName" : "Schweingruber - Cortina d'Ampezzo South - PCAB - ITRDB ITAL007",
+    "sites" : [ {
+      "siteName" : "Cortina d'Ampezzo South",
+      "files" : [ {
+        "fileName" : "ital007.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/ital007.rwl"
+      }, {
+        "fileName" : "ital007-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/ital007-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-4421.json",
+    "studyName" : "Schweingruber - Gasienicowy - PCAB - ITRDB POLA020",
+    "sites" : [ {
+      "siteName" : "Gasienicowy",
+      "files" : [ {
+        "fileName" : "pola020-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/pola020-noaa.rwl"
+      }, {
+        "fileName" : "pola020.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/pola020.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-4428.json",
+    "studyName" : "Schweingruber - Grindelwald BE - PCAB - ITRDB SWIT102",
+    "sites" : [ {
+      "siteName" : "Grindelwald BE",
+      "files" : [ {
+        "fileName" : "swit102.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit102.rwl"
+      }, {
+        "fileName" : "swit102-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit102-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-4457.json",
+    "studyName" : "Schweingruber - Katscherpass - PCAB - ITRDB AUST005",
+    "sites" : [ {
+      "siteName" : "Katscherpass",
+      "files" : [ {
+        "fileName" : "aust005.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/aust005.rwl"
+      }, {
+        "fileName" : "aust005-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/aust005-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-4525.json",
+    "studyName" : "Schweingruber - Mariazell Gemeindealpe - PCAB - ITRDB AUST006",
+    "sites" : [ {
+      "siteName" : "Mariazell Gemeindealpe",
+      "files" : [ {
+        "fileName" : "aust006-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/aust006-noaa.rwl"
+      }, {
+        "fileName" : "aust006.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/aust006.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-4532.json",
+    "studyName" : "Schweingruber - Mittleri Hellelawald - PCAB - ITRDB SWIT122",
+    "sites" : [ {
+      "siteName" : "Mittleri Hellelawald",
+      "files" : [ {
+        "fileName" : "swit122-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit122-noaa.rwl"
+      }, {
+        "fileName" : "swit122.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit122.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-4609.json",
+    "studyName" : "Schweingruber - Riederalp Vs Aletschwald - PCAB - ITRDB SWIT110",
+    "sites" : [ {
+      "siteName" : "Riederalp Vs Aletschwald",
+      "files" : [ {
+        "fileName" : "swit110-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit110-noaa.rwl"
+      }, {
+        "fileName" : "swit110.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit110.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-4613.json",
+    "studyName" : "Schweingruber - Rigi Klosterli SZ - PCAB - ITRDB SWIT104",
+    "sites" : [ {
+      "siteName" : "Rigi Klosterli SZ",
+      "files" : [ {
+        "fileName" : "swit104-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit104-noaa.rwl"
+      }, {
+        "fileName" : "swit104.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit104.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-4614.json",
+    "studyName" : "Schweingruber - Rigi Staffel SZ - PCAB - ITRDB SWIT103",
+    "sites" : [ {
+      "siteName" : "Rigi Staffel SZ",
+      "files" : [ {
+        "fileName" : "swit103.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit103.rwl"
+      }, {
+        "fileName" : "swit103-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit103-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-4663.json",
+    "studyName" : "Schweingruber - Stubaital Milderaun Alm - PCAB - ITRDB AUST007",
+    "sites" : [ {
+      "siteName" : "Stubaital Milderaun Alm",
+      "files" : [ {
+        "fileName" : "aust007-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/aust007-noaa.rwl"
+      }, {
+        "fileName" : "aust007.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/aust007.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-4672.json",
+    "studyName" : "Schweingruber - Susten Zand Fichte - PCAB - ITRDB SWIT114",
+    "sites" : [ {
+      "siteName" : "Susten Zand Fichte",
+      "files" : [ {
+        "fileName" : "swit114-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit114-noaa.rwl"
+      }, {
+        "fileName" : "swit114.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit114.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-4674.json",
+    "studyName" : "Schweingruber - Swistowko Wyznig - PCAB - ITRDB POLA019",
+    "sites" : [ {
+      "siteName" : "Swistowko Wyznig",
+      "files" : [ {
+        "fileName" : "pola019.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/pola019.rwl"
+      }, {
+        "fileName" : "pola019-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/pola019-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-4679.json",
+    "studyName" : "Schweingruber - Tatz Stockwald - PCAB - ITRDB SWIT126",
+    "sites" : [ {
+      "siteName" : "Tatz Stockwald",
+      "files" : [ {
+        "fileName" : "swit126.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit126.rwl"
+      }, {
+        "fileName" : "swit126-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit126-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-4728.json",
+    "studyName" : "Schweingruber - Vrsic Krajanska Gora - PCAB - ITRDB YUGO001",
+    "sites" : [ {
+      "siteName" : "Vrsic Krajanska Gora",
+      "files" : [ {
+        "fileName" : "yugo001-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/yugo001-noaa.rwl"
+      }, {
+        "fileName" : "yugo001.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/yugo001.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-33058.json",
+    "studyName" : "Simmler - Davos Dischma Marteloskop - PCAB - ITRDB SWIT410",
+    "sites" : [ {
+      "siteName" : "Davos Dischma Marteloskop",
+      "files" : [ {
+        "fileName" : "swit410-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit410-noaa.rwl"
+      }, {
+        "fileName" : "swit410.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit410.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-34755.json",
+    "studyName" : "Treml - Divoký důl - PCAB - ITRDB CZEC014",
+    "sites" : [ {
+      "siteName" : "Divoký důl",
+      "files" : [ {
+        "fileName" : "czec014.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/czec014.rwl"
+      }, {
+        "fileName" : "czec014-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/czec014-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-32412.json",
+    "studyName" : "Treml - Krkonose Mountains treeline - PCAB - ITRDB CZEC006",
+    "sites" : [ {
+      "siteName" : "Krkonose Mountains treeline",
+      "files" : [ {
+        "fileName" : "czec006-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/czec006-noaa.rwl"
+      }, {
+        "fileName" : "czec006.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/czec006.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-34814.json",
+    "studyName" : "Treml - Králický Sněžník - PCAB - ITRDB CZEC016",
+    "sites" : [ {
+      "siteName" : "Králický Sněžník",
+      "files" : [ {
+        "fileName" : "czec016-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/czec016-noaa.rwl"
+      }, {
+        "fileName" : "czec016.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/czec016.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-34837.json",
+    "studyName" : "Treml - Polom - PCAB - ITRDB CZEC019",
+    "sites" : [ {
+      "siteName" : "Polom",
+      "files" : [ {
+        "fileName" : "czec019-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/czec019-noaa.rwl"
+      }, {
+        "fileName" : "czec019.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/czec019.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-34938.json",
+    "studyName" : "Treml - Šišák - PCAB - ITRDB CZEC025",
+    "sites" : [ {
+      "siteName" : "Šišák",
+      "files" : [ {
+        "fileName" : "czec025.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/czec025.rwl"
+      }, {
+        "fileName" : "czec025-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/czec025-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-33038.json",
+    "studyName" : "Vanoni - Amden - PCAB - ITRDB SWIT390",
+    "sites" : [ {
+      "siteName" : "Amden",
+      "files" : [ {
+        "fileName" : "swit390-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit390-noaa.rwl"
+      }, {
+        "fileName" : "swit390.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit390.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-33048.json",
+    "studyName" : "Vanoni - Andeer - PCAB - ITRDB SWIT400",
+    "sites" : [ {
+      "siteName" : "Andeer",
+      "files" : [ {
+        "fileName" : "swit400-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit400-noaa.rwl"
+      }, {
+        "fileName" : "swit400.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit400.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-33054.json",
+    "studyName" : "Vanoni - Berguen - PCAB - ITRDB SWIT406",
+    "sites" : [ {
+      "siteName" : "Berguen",
+      "files" : [ {
+        "fileName" : "swit406-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit406-noaa.rwl"
+      }, {
+        "fileName" : "swit406.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit406.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-33040.json",
+    "studyName" : "Vanoni - Ibergeregg - PCAB - ITRDB SWIT392",
+    "sites" : [ {
+      "siteName" : "Ibergeregg",
+      "files" : [ {
+        "fileName" : "swit392.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit392.rwl"
+      }, {
+        "fileName" : "swit392-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit392-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-33042.json",
+    "studyName" : "Vanoni - Rothenthurm - PCAB - ITRDB SWIT394",
+    "sites" : [ {
+      "siteName" : "Rothenthurm",
+      "files" : [ {
+        "fileName" : "swit394.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit394.rwl"
+      }, {
+        "fileName" : "swit394-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit394-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-33050.json",
+    "studyName" : "Vanoni - Spluegen - PCAB - ITRDB SWIT402",
+    "sites" : [ {
+      "siteName" : "Spluegen",
+      "files" : [ {
+        "fileName" : "swit402.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit402.rwl"
+      }, {
+        "fileName" : "swit402-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit402-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-33044.json",
+    "studyName" : "Vanoni - Sumvitg - PCAB - ITRDB SWIT396",
+    "sites" : [ {
+      "siteName" : "Sumvitg",
+      "files" : [ {
+        "fileName" : "swit396.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit396.rwl"
+      }, {
+        "fileName" : "swit396-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit396-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-33052.json",
+    "studyName" : "Vanoni - Tiefencastel - PCAB - ITRDB SWIT404",
+    "sites" : [ {
+      "siteName" : "Tiefencastel",
+      "files" : [ {
+        "fileName" : "swit404.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit404.rwl"
+      }, {
+        "fileName" : "swit404-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit404-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-33046.json",
+    "studyName" : "Vanoni - Val Sumvitg - PCAB - ITRDB SWIT398",
+    "sites" : [ {
+      "siteName" : "Val Sumvitg",
+      "files" : [ {
+        "fileName" : "swit398-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit398-noaa.rwl"
+      }, {
+        "fileName" : "swit398.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/swit398.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12796.json",
+    "studyName" : "Wilson - Am Brixener Str. 9 Regensburg Historical Timbers - PCAB - ITRDB GERM108",
+    "sites" : [ {
+      "siteName" : "Am Brixener Str. 9 Regensburg",
+      "files" : [ {
+        "fileName" : "germ108.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ108.rwl"
+      }, {
+        "fileName" : "germ108-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ108-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12829.json",
+    "studyName" : "Wilson - Am Olberg Str. 3+5 1 Regensburg Historical - PCAB - ITRDB GERM129",
+    "sites" : [ {
+      "siteName" : "Am Olberg Str. 3+5 1 Regensburg Historical Timbers",
+      "files" : [ {
+        "fileName" : "germ129-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ129-noaa.rwl"
+      }, {
+        "fileName" : "germ129.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ129.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12844.json",
+    "studyName" : "Wilson - Am Olberg Str. 3+5 2 Regensburg Historical - PCAB - ITRDB GERM130",
+    "sites" : [ {
+      "siteName" : "Am Olberg Str. 3+5 2 Regensburg Historical Timbers",
+      "files" : [ {
+        "fileName" : "germ130-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ130-noaa.rwl"
+      }, {
+        "fileName" : "germ130.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ130.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12846.json",
+    "studyName" : "Wilson - Anwesen Sigl Schoenberg Historical Timbers - PCAB - ITRDB GERM132",
+    "sites" : [ {
+      "siteName" : "Anwesen Sigl Schoenberg Historical Timbers",
+      "files" : [ {
+        "fileName" : "germ132-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ132-noaa.rwl"
+      }, {
+        "fileName" : "germ132.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ132.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-5263.json",
+    "studyName" : "Wilson - Arber - PCAB - ITRDB GERM033",
+    "sites" : [ {
+      "siteName" : "Arber",
+      "files" : [ {
+        "fileName" : "germ033-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ033-noaa.rwl"
+      }, {
+        "fileName" : "germ033.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ033.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12795.json",
+    "studyName" : "Wilson - Blaue-Stern-Gasse 3 Regensburg Historical Timber - PCAB - ITRDB GERM107",
+    "sites" : [ {
+      "siteName" : "Blaue-Stern-Gasse 3 Regensburg Historical Timbers",
+      "files" : [ {
+        "fileName" : "germ107.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ107.rwl"
+      }, {
+        "fileName" : "germ107-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ107-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12798.json",
+    "studyName" : "Wilson - Dom Platz 7 Regensburg Historical Timbers - PCAB - ITRDB GERM110",
+    "sites" : [ {
+      "siteName" : "Dom Platz 7 Regensburg Historical Timbers",
+      "files" : [ {
+        "fileName" : "germ110-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ110-noaa.rwl"
+      }, {
+        "fileName" : "germ110.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ110.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-5264.json",
+    "studyName" : "Wilson - Eichhornberg - PCAB - ITRDB GERM059",
+    "sites" : [ {
+      "siteName" : "Eichhornberg",
+      "files" : [ {
+        "fileName" : "germ059.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ059.rwl"
+      }, {
+        "fileName" : "germ059-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ059-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-5266.json",
+    "studyName" : "Wilson - Falkenstein - PCAB - ITRDB GERM040",
+    "sites" : [ {
+      "siteName" : "Falkenstein",
+      "files" : [ {
+        "fileName" : "germ040-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ040-noaa.rwl"
+      }, {
+        "fileName" : "germ040.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ040.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12802.json",
+    "studyName" : "Wilson - Franziskanerklosters 1 Straubing Historical - PCAB - ITRDB GERM114",
+    "sites" : [ {
+      "siteName" : "Franziskanerklosters 1 Straubing Historical Timbers",
+      "files" : [ {
+        "fileName" : "germ114.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ114.rwl"
+      }, {
+        "fileName" : "germ114-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ114-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12803.json",
+    "studyName" : "Wilson - Franziskanerklosters 2 Straubing Historical - PCAB - ITRDB GERM115",
+    "sites" : [ {
+      "siteName" : "Franziskanerklosters 2 Straubing",
+      "files" : [ {
+        "fileName" : "germ115.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ115.rwl"
+      }, {
+        "fileName" : "germ115-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ115-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12804.json",
+    "studyName" : "Wilson - Franziskanerklosters 3 Straubing Historical - PCAB - ITRDB GERM116",
+    "sites" : [ {
+      "siteName" : "Franziskanerklosters 3 Straubing",
+      "files" : [ {
+        "fileName" : "germ116-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ116-noaa.rwl"
+      }, {
+        "fileName" : "germ116.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ116.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-5267.json",
+    "studyName" : "Wilson - Frather Eck - PCAB - ITRDB GERM037",
+    "sites" : [ {
+      "siteName" : "Frather Eck",
+      "files" : [ {
+        "fileName" : "germ037-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ037-noaa.rwl"
+      }, {
+        "fileName" : "germ037.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ037.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12800.json",
+    "studyName" : "Wilson - Frauenhoferstrasse 4 Straubing Historical Timber - PCAB - ITRDB GERM112",
+    "sites" : [ {
+      "siteName" : "Frauenhoferstrasse 4 Straubing",
+      "files" : [ {
+        "fileName" : "germ112-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ112-noaa.rwl"
+      }, {
+        "fileName" : "germ112.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ112.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12801.json",
+    "studyName" : "Wilson - Frauenhoferstrasse 9 Straubing Historical Timber - PCAB - ITRDB GERM113",
+    "sites" : [ {
+      "siteName" : "Frauenhoferstrasse 9 Straubing",
+      "files" : [ {
+        "fileName" : "germ113.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ113.rwl"
+      }, {
+        "fileName" : "germ113-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ113-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12858.json",
+    "studyName" : "Wilson - Froeliche Turken Str. 5 Regensburg Historical - PCAB - ITRDB GERM144",
+    "sites" : [ {
+      "siteName" : "Froeliche Turken Str. 5 1 Regensburg Timbers",
+      "files" : [ {
+        "fileName" : "germ144.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ144.rwl"
+      }, {
+        "fileName" : "germ144-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ144-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12807.json",
+    "studyName" : "Wilson - Goliath Str. 2 Regensburg Historical Timbers - PCAB - ITRDB GERM119",
+    "sites" : [ {
+      "siteName" : "Goliath Str. 2 Regensburg",
+      "files" : [ {
+        "fileName" : "germ119-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ119-noaa.rwl"
+      }, {
+        "fileName" : "germ119.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ119.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12809.json",
+    "studyName" : "Wilson - Grassgasse 10 Regensburg Historical Timbers - PCAB - ITRDB GERM121",
+    "sites" : [ {
+      "siteName" : "Grassgasse 10 Regensburg Historical Timbers",
+      "files" : [ {
+        "fileName" : "germ121-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ121-noaa.rwl"
+      }, {
+        "fileName" : "germ121.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ121.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-5268.json",
+    "studyName" : "Wilson - Hochzell - PCAB - ITRDB GERM039",
+    "sites" : [ {
+      "siteName" : "Hochzell",
+      "files" : [ {
+        "fileName" : "germ039.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ039.rwl"
+      }, {
+        "fileName" : "germ039-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ039-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-5269.json",
+    "studyName" : "Wilson - Käse Platte - PCAB - ITRDB GERM038",
+    "sites" : [ {
+      "siteName" : "Käse Platte",
+      "files" : [ {
+        "fileName" : "germ038-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ038-noaa.rwl"
+      }, {
+        "fileName" : "germ038.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ038.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12811.json",
+    "studyName" : "Wilson - Lederergasse 9 Regensburg Historical Timbers - PCAB - ITRDB GERM123",
+    "sites" : [ {
+      "siteName" : "Lederergasse 9 Regensburg Historical Timbers",
+      "files" : [ {
+        "fileName" : "germ123-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ123-noaa.rwl"
+      }, {
+        "fileName" : "germ123.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ123.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12825.json",
+    "studyName" : "Wilson - Marschall str. 10c Regensburg Historical Timbers - PCAB - ITRDB GERM125",
+    "sites" : [ {
+      "siteName" : "Marschall str. 10c Regensburg Historical Timbers",
+      "files" : [ {
+        "fileName" : "germ125.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ125.rwl"
+      }, {
+        "fileName" : "germ125-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ125-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12826.json",
+    "studyName" : "Wilson - Mitterfels Schloss Historical Timbers - PCAB - ITRDB GERM126",
+    "sites" : [ {
+      "siteName" : "Mitterfels Schloss 1 Historical Timbers",
+      "files" : [ {
+        "fileName" : "germ126-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ126-noaa.rwl"
+      }, {
+        "fileName" : "germ126.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ126.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12828.json",
+    "studyName" : "Wilson - Oberaltaich Historical Timbers - PCAB - ITRDB GERM128",
+    "sites" : [ {
+      "siteName" : "Oberaltaich",
+      "files" : [ {
+        "fileName" : "germ128-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ128-noaa.rwl"
+      }, {
+        "fileName" : "germ128.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ128.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12827.json",
+    "studyName" : "Wilson - Obermunster Str. 6 Regensburg Historical Timbers - PCAB - ITRDB GERM127",
+    "sites" : [ {
+      "siteName" : "Obermunster Str. 6 Regensburg Historical Timbers",
+      "files" : [ {
+        "fileName" : "germ127-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ127-noaa.rwl"
+      }, {
+        "fileName" : "germ127.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ127.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12849.json",
+    "studyName" : "Wilson - Pfarrkirche Schierling Historical Timbers - PCAB - ITRDB GERM135",
+    "sites" : [ {
+      "siteName" : "Pfarrkirche Schierling",
+      "files" : [ {
+        "fileName" : "germ135-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ135-noaa.rwl"
+      }, {
+        "fileName" : "germ135.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ135.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-5271.json",
+    "studyName" : "Wilson - Poign - PCAB - ITRDB GERM035",
+    "sites" : [ {
+      "siteName" : "Poign",
+      "files" : [ {
+        "fileName" : "germ035-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ035-noaa.rwl"
+      }, {
+        "fileName" : "germ035.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ035.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12797.json",
+    "studyName" : "Wilson - Regensburg Dom Historical Timbers - PCAB - ITRDB GERM109",
+    "sites" : [ {
+      "siteName" : "Regensburg Dom Historical Timbers",
+      "files" : [ {
+        "fileName" : "germ109-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ109-noaa.rwl"
+      }, {
+        "fileName" : "germ109.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ109.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12810.json",
+    "studyName" : "Wilson - Residenz Landgassenubergang and Marstall Landshut - PCAB - ITRDB GERM122",
+    "sites" : [ {
+      "siteName" : "Residenz Landgassenubergang and Marstall Landshut",
+      "files" : [ {
+        "fileName" : "germ122-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ122-noaa.rwl"
+      }, {
+        "fileName" : "germ122.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ122.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12845.json",
+    "studyName" : "Wilson - Rottenburg/Laaber Heimatmuseum Historical Timbers - PCAB - ITRDB GERM131",
+    "sites" : [ {
+      "siteName" : "Rottenburg/Laaber Heimatmuseum",
+      "files" : [ {
+        "fileName" : "germ131-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ131-noaa.rwl"
+      }, {
+        "fileName" : "germ131.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ131.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12854.json",
+    "studyName" : "Wilson - Salzstadel 1 Straubing Historical Timbers - PCAB - ITRDB GERM140",
+    "sites" : [ {
+      "siteName" : "Salzstadel 1 Straubing Historical Timbers",
+      "files" : [ {
+        "fileName" : "germ140.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ140.rwl"
+      }, {
+        "fileName" : "germ140-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ140-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12855.json",
+    "studyName" : "Wilson - Salzstadel 2 Straubing Historical Timbers - PCAB - ITRDB GERM141",
+    "sites" : [ {
+      "siteName" : "Salzstadel 2 Straubing",
+      "files" : [ {
+        "fileName" : "germ141-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ141-noaa.rwl"
+      }, {
+        "fileName" : "germ141.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ141.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12847.json",
+    "studyName" : "Wilson - Scheugaesschen 3 Regensburg Historical Timbers - PCAB - ITRDB GERM133",
+    "sites" : [ {
+      "siteName" : "Scheugaesschen 3 Regensburg",
+      "files" : [ {
+        "fileName" : "germ133-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ133-noaa.rwl"
+      }, {
+        "fileName" : "germ133.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ133.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12824.json",
+    "studyName" : "Wilson - Schloss Loham Mariaposching Historical Timbers - PCAB - ITRDB GERM124",
+    "sites" : [ {
+      "siteName" : "Schloss Loham Mariaposching",
+      "files" : [ {
+        "fileName" : "germ124-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ124-noaa.rwl"
+      }, {
+        "fileName" : "germ124.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ124.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12848.json",
+    "studyName" : "Wilson - Schuegraf Str. 5 Regensburg Historical Timbers - PCAB - ITRDB GERM134",
+    "sites" : [ {
+      "siteName" : "Schuegraf Str. 5 Regensburg",
+      "files" : [ {
+        "fileName" : "germ134-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ134-noaa.rwl"
+      }, {
+        "fileName" : "germ134.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ134.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12850.json",
+    "studyName" : "Wilson - Seminargasse 8-1 Straubing Historical Timbers - PCAB - ITRDB GERM136",
+    "sites" : [ {
+      "siteName" : "Seminargasse 8-1 Straubing",
+      "files" : [ {
+        "fileName" : "germ136.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ136.rwl"
+      }, {
+        "fileName" : "germ136-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ136-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12851.json",
+    "studyName" : "Wilson - Seminargasse 8-2 Straubing Historical Timbers - PCAB - ITRDB GERM137",
+    "sites" : [ {
+      "siteName" : "Seminargasse 8-2 Straubing",
+      "files" : [ {
+        "fileName" : "germ137.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ137.rwl"
+      }, {
+        "fileName" : "germ137-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ137-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12852.json",
+    "studyName" : "Wilson - Seminargasse 8-3 Straubing Historical Timbers - PCAB - ITRDB GERM138",
+    "sites" : [ {
+      "siteName" : "Seminargasse 8-3 Straubing",
+      "files" : [ {
+        "fileName" : "germ138-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ138-noaa.rwl"
+      }, {
+        "fileName" : "germ138.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ138.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12853.json",
+    "studyName" : "Wilson - Seminargasse 8-4 Straubing Historical Timbers - PCAB - ITRDB GERM139",
+    "sites" : [ {
+      "siteName" : "Seminargasse 8-4 Straubing",
+      "files" : [ {
+        "fileName" : "germ139-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ139-noaa.rwl"
+      }, {
+        "fileName" : "germ139.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ139.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-5272.json",
+    "studyName" : "Wilson - Sinzing - PCAB - ITRDB GERM036",
+    "sites" : [ {
+      "siteName" : "Sinzing",
+      "files" : [ {
+        "fileName" : "germ036.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ036.rwl"
+      }, {
+        "fileName" : "germ036-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ036-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12860.json",
+    "studyName" : "Wilson - Spitalgasse, Hospitalstiftung Bad Windsheim - PCAB - ITRDB GERM146",
+    "sites" : [ {
+      "siteName" : "Spitalgasse, Hospitalstiftung Bad Windsheim",
+      "files" : [ {
+        "fileName" : "germ146.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ146.rwl"
+      }, {
+        "fileName" : "germ146-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ146-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12799.json",
+    "studyName" : "Wilson - St. Emmeram Church Regensburg - PCAB - ITRDB GERM111",
+    "sites" : [ {
+      "siteName" : "St. Emmeram Church Regensburg",
+      "files" : [ {
+        "fileName" : "germ111-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ111-noaa.rwl"
+      }, {
+        "fileName" : "germ111.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ111.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12808.json",
+    "studyName" : "Wilson - Stadtplatz 14 Grafenau Historical Timbers - PCAB - ITRDB GERM120",
+    "sites" : [ {
+      "siteName" : "Stadtplatz 14 Grafenau",
+      "files" : [ {
+        "fileName" : "germ120-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ120-noaa.rwl"
+      }, {
+        "fileName" : "germ120.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ120.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-5273.json",
+    "studyName" : "Wilson - Steinach - PCAB - ITRDB GERM034",
+    "sites" : [ {
+      "siteName" : "Steinach",
+      "files" : [ {
+        "fileName" : "germ034-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ034-noaa.rwl"
+      }, {
+        "fileName" : "germ034.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ034.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12856.json",
+    "studyName" : "Wilson - Theresienplatz 20-2, Rathaus Straubing Historical - PCAB - ITRDB GERM142",
+    "sites" : [ {
+      "siteName" : "Theresienplatz 20-2, Rathaus Straubing",
+      "files" : [ {
+        "fileName" : "germ142-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ142-noaa.rwl"
+      }, {
+        "fileName" : "germ142.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ142.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12857.json",
+    "studyName" : "Wilson - Theresienplatz 20-3, Rathaus Straubing Historical - PCAB - ITRDB GERM143",
+    "sites" : [ {
+      "siteName" : "Theresienplatz 20-3, Rathaus Straubing",
+      "files" : [ {
+        "fileName" : "germ143-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ143-noaa.rwl"
+      }, {
+        "fileName" : "germ143.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ143.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12805.json",
+    "studyName" : "Wilson - Theresienplatz 40-1 Straubing Historical Timbers - PCAB - ITRDB GERM117",
+    "sites" : [ {
+      "siteName" : "Theresienplatz 40-1 Straubing Historical Timbers",
+      "files" : [ {
+        "fileName" : "germ117.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ117.rwl"
+      }, {
+        "fileName" : "germ117-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ117-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12806.json",
+    "studyName" : "Wilson - Theresienplatz 40-2 Straubing Historical Timbers - PCAB - ITRDB GERM118",
+    "sites" : [ {
+      "siteName" : "Theresienplatz 40-2 Straubing Historical Timbers",
+      "files" : [ {
+        "fileName" : "germ118-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ118-noaa.rwl"
+      }, {
+        "fileName" : "germ118.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ118.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-5274.json",
+    "studyName" : "Wilson - Traitsching - PCAB - ITRDB GERM058",
+    "sites" : [ {
+      "siteName" : "Traitsching",
+      "files" : [ {
+        "fileName" : "germ058-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ058-noaa.rwl"
+      }, {
+        "fileName" : "germ058.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ058.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12859.json",
+    "studyName" : "Wilson - Wahlen Str. 23 Regensburg Historical Timbers - PCAB - ITRDB GERM145",
+    "sites" : [ {
+      "siteName" : "Wahlen Str. 23 Regensburg Historical Timbers",
+      "files" : [ {
+        "fileName" : "germ145-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ145-noaa.rwl"
+      }, {
+        "fileName" : "germ145.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ145.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-12861.json",
+    "studyName" : "Wilson - Winkle Str. 1 Regensburg Historical Timbers - PCAB - ITRDB GERM147",
+    "sites" : [ {
+      "siteName" : "Winkler Str. 1 Regensburg Historical Timbers",
+      "files" : [ {
+        "fileName" : "germ147-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ147-noaa.rwl"
+      }, {
+        "fileName" : "germ147.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ147.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-5275.json",
+    "studyName" : "Wilson - Woody-Happy-Berg - PCAB - ITRDB GERM057",
+    "sites" : [ {
+      "siteName" : "Woody-Happy-Berg",
+      "files" : [ {
+        "fileName" : "germ057-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ057-noaa.rwl"
+      }, {
+        "fileName" : "germ057.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ057.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-34815.json",
+    "studyName" : "Čada - Havraní skály - PCAB - ITRDB SVK008",
+    "sites" : [ {
+      "siteName" : "Havraní skály",
+      "files" : [ {
+        "fileName" : "svk008.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/svk008.rwl"
+      }, {
+        "fileName" : "svk008-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/svk008-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-34816.json",
+    "studyName" : "Čada - Javorová - PCAB - ITRDB SVK009",
+    "sites" : [ {
+      "siteName" : "Javorová",
+      "files" : [ {
+        "fileName" : "svk009.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/svk009.rwl"
+      }, {
+        "fileName" : "svk009-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/svk009-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-34813.json",
+    "studyName" : "Čada - Jetřichovická Bělá - PCAB - ITRDB CZEC015",
+    "sites" : [ {
+      "siteName" : "Jetřichovická Bělá",
+      "files" : [ {
+        "fileName" : "czec015.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/czec015.rwl"
+      }, {
+        "fileName" : "czec015-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/czec015-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-34834.json",
+    "studyName" : "Čada - Ostrý - PCAB - ITRDB CZEC017",
+    "sites" : [ {
+      "siteName" : "Ostrý",
+      "files" : [ {
+        "fileName" : "czec017-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/czec017-noaa.rwl"
+      }, {
+        "fileName" : "czec017.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/czec017.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-34936.json",
+    "studyName" : "Čada - Rejštějn - PCAB - ITRDB CZEC023",
+    "sites" : [ {
+      "siteName" : "Rejštějn",
+      "files" : [ {
+        "fileName" : "czec023-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/czec023-noaa.rwl"
+      }, {
+        "fileName" : "czec023.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/czec023.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-34939.json",
+    "studyName" : "Čada - Smrekovica - PCAB - ITRDB SVK013",
+    "sites" : [ {
+      "siteName" : "Smrekovica",
+      "files" : [ {
+        "fileName" : "svk013.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/svk013.rwl"
+      }, {
+        "fileName" : "svk013-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/svk013-noaa.rwl"
+      } ]
+    } ]
+  }, {
+    "download" : "Y",
+    "metadataFile" : "metadata/noaa-tree-34753.json",
+    "studyName" : "Čada - České Žleby - PCAB - ITRDB CZEC012",
+    "sites" : [ {
+      "siteName" : "České Žleby",
+      "files" : [ {
+        "fileName" : "czec012.rwl",
+        "description" : "Raw Measurements",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/czec012.rwl"
+      }, {
+        "fileName" : "czec012-noaa.rwl",
+        "description" : "Raw Measurements - NOAA Template File",
+        "URL" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/czec012-noaa.rwl"
+      } ]
+    } ]
+  } ],
+  "info" : {
+    "downloadCreateDate" : "2022-07-01T08:52:14.474Z",
+    "details" : "See the included README.txt for details of the sections in this manifest."
+  }
+}

@@ -1,0 +1,89 @@
+Call,Filepath,Year,Lat,Lon
+"DE01<-read.rwl(""Germany/germ057.rwl"")",Germany/germ057.rwl,2001,49.2,12.38
+"DE02<-read.rwl(""Germany/germ058.rwl"")",Germany/germ058.rwl,2001,49.18,12.65
+"DE03<-read.rwl(""Germany/germ059.rwl"")",Germany/germ059.rwl,2001,48.92,12.62
+"DE04<-read.rwl(""Germany/germ159.rwl"")",Germany/germ159.rwl,2009,51.15,8.9833
+"DE05<-read.rwl(""Germany/germ189.rwl"")",Germany/germ189.rwl,2005,50.7167,8.1
+"DE06<-read.rwl(""Germany/germ192.rwl"")",Germany/germ192.rwl,2005,50.85,8.2167
+"DE07<-read.rwl(""Germany/germ208.rwl"")",Germany/germ208.rwl,2005,51.1833,8.4333
+"DE08<-read.rwl(""Germany/germ227.rwl"")",Germany/germ227.rwl,2011,51.0756,8.04
+"DE09<-read.rwl(""Germany/germ230.rwl"")",Germany/germ230.rwl,2009,50.22194,8.4472
+"DE10<-read.rwl(""Germany/germ233.rwl"")",Germany/germ233.rwl,2009,50.05,8.01
+"DE11<-read.rwl(""Germany/germ234.rwl"")",Germany/germ234.rwl,2012,50.04925,8.0083
+"DE12<-read.rwl(""Germany/germ236.rwl"")",Germany/germ236.rwl,2009,50.0553,7.5103
+"DE13<-read.rwl(""Germany/germ237.rwl"")",Germany/germ237.rwl,2010,50.0553,7.5103
+"DE14<-read.rwl(""Germany/germ238.rwl"")",Germany/germ238.rwl,2011,49.34444,8.11555
+"DE15<-read.rwl(""Germany/germ241.rwl"")",Germany/germ241.rwl,2010,50.4393,7.7555
+"DE16<-read.rwl(""Germany/germ242.rwl"")",Germany/germ242.rwl,2010,50.68778,7.94889
+"DE17<-read.rwl(""Germany/germ243.rwl"")",Germany/germ243.rwl,2010,50.4393,7.75555
+"DE18<-read.rwl(""Germany/germ244.rwl"")",Germany/germ244.rwl,2010,50.81,7.97416
+"DE19<-read.rwl(""Germany/germ245.rwl"")",Germany/germ245.rwl,2012,50.69063,8.159
+"DE20<-read.rwl(""Germany/germ246.rwl"")",Germany/germ246.rwl,2012,50.70145,8.2329
+"SW01<-read.rwl(""Switzerland/swit368.rwl"")",Switzerland/swit368.rwl,2016,47.22852,8.92916
+"SW02<-read.rwl(""Switzerland/swit369.rwl"")",Switzerland/swit369.rwl,2016,47.28673,8.95479
+"SW03<-read.rwl(""Switzerland/swit370.rwl"")",Switzerland/swit370.rwl,2016,47.25386,8.93852
+"SW04<-read.rwl(""Switzerland/swit371.rwl"")",Switzerland/swit371.rwl,2016,47.16697,8.72347
+"SW05<-read.rwl(""Switzerland/swit372.rwl"")",Switzerland/swit372.rwl,2015,47.04095,8.737
+"SW06<-read.rwl(""Switzerland/swit373.rwl"")",Switzerland/swit373.rwl,2015,46.92306,9.16675
+"SW07<-read.rwl(""Switzerland/swit374.rwl"")",Switzerland/swit374.rwl,2015,47.05598,8.76291
+"SW08<-read.rwl(""Switzerland/swit375.rwl"")",Switzerland/swit375.rwl,2016,47.00433,9.10381
+"SW09<-read.rwl(""Switzerland/swit376.rwl"")",Switzerland/swit376.rwl,2014,47.0316,9.0611
+"SW10<-read.rwl(""Switzerland/swit377.rwl"")",Switzerland/swit377.rwl,2016,47.06697,8.82121
+"SW11<-read.rwl(""Switzerland/swit378.rwl"")",Switzerland/swit378.rwl,2016,47.00137,9.09612
+"SW12<-read.rwl(""Switzerland/swit379.rwl"")",Switzerland/swit379.rwl,2015,46.93025,9.21343
+"SW13<-read.rwl(""Switzerland/swit380.rwl"")",Switzerland/swit380.rwl,2016,47.2525,9.04131
+"SW14<-read.rwl(""Switzerland/swit381.rwl"")",Switzerland/swit381.rwl,2014,47.24067,8.56923
+"SW15<-read.rwl(""Switzerland/swit382.rwl"")",Switzerland/swit382.rwl,2015,46.89649,8.9425
+"SW16<-read.rwl(""Switzerland/swit383.rwl"")",Switzerland/swit383.rwl,2017,47.2699,8.524
+"SW17<-read.rwl(""Switzerland/swit390.rwl"")",Switzerland/swit390.rwl,2011,47.180832,9.176242
+"SW18<-read.rwl(""Switzerland/swit392.rwl"")",Switzerland/swit392.rwl,2011,47.014324,8.739395
+"SW19<-read.rwl(""Switzerland/swit394.rwl"")",Switzerland/swit394.rwl,2011,47.069881,8.677936
+"SW20<-read.rwl(""Switzerland/swit396.rwl"")",Switzerland/swit396.rwl,2011,46.726701,8.902934
+"SW21<-read.rwl(""Switzerland/swit398.rwl"")",Switzerland/swit398.rwl,2011,46.653633,8.985493
+"SW22<-read.rwl(""Switzerland/swit400.rwl"")",Switzerland/swit400.rwl,2011,46.571349,9.418137
+"SW23<-read.rwl(""Switzerland/swit402.rwl"")",Switzerland/swit402.rwl,2011,46.559829,9.35523
+"SW24<-read.rwl(""Switzerland/swit404.rwl"")",Switzerland/swit404.rwl,2011,46.6572,9.593863
+"SW25<-read.rwl(""Switzerland/swit406.rwl"")",Switzerland/swit406.rwl,2011,46.641644,9.724754
+"SW26<-read.rwl(""Switzerland/swit408.rwl"")",Switzerland/swit408.rwl,2015,46.555732,9.607258
+"SW27<-read.rwl(""Switzerland/swit409.rwl"")",Switzerland/swit409.rwl,2015,46.664743,8.773974
+"SW28<-read.rwl(""Switzerland/swit410.rwl"")",Switzerland/swit410.rwl,2016,46.770948,9.877178
+"SW29<-read.rwl(""Switzerland/swit412.rwl"")",Switzerland/swit412.rwl,2008,46.817786,8.24053
+"SL01<-read.rwl(""Slovakia/svk002.rwl"")",Slovakia/svk002.rwl,2004,48.9,19.6
+"SL02<-read.rwl(""Slovakia/svk004.rwl"")",Slovakia/svk004.rwl,2003,49.15,20.01
+"SL03<-read.rwl(""Slovakia/svk005.rwl"")",Slovakia/svk005.rwl,2003,48.8,19.6
+"SL04<-read.rwl(""Slovakia/svk007.rwl"")",Slovakia/svk007.rwl,2019,48.934338,19.605071
+"SL05<-read.rwl(""Slovakia/svk008.rwl"")",Slovakia/svk008.rwl,2018,48.9533,20.42888
+"SL06<-read.rwl(""Slovakia/svk009.rwl"")",Slovakia/svk009.rwl,2018,49.216688,20.162643
+"SL07<-read.rwl(""Slovakia/svk013.rwl"")",Slovakia/svk013.rwl,2018,48.985789,19.222849
+"PL01<-read.rwl(""Poland/pola022.rwl"")",Poland/pola022.rwl,2004,49.5833,19.05
+"PL02<-read.rwl(""Poland/pola023.rwl"")",Poland/pola023.rwl,2004,49.2833,19.0833
+"PL03<-read.rwl(""Poland/pola025.rwl"")",Poland/pola025.rwl,2004,49.25,20.0333
+"PL04<-read.rwl(""Poland/pola026.rwl"")",Poland/pola026.rwl,2004,49.2333,20.0833
+"PL05<-read.rwl(""Poland/pola027.rwl"")",Poland/pola027.rwl,2004,49.25,20.0333
+"PL06<-read.rwl(""Poland/pola028.rwl"")",Poland/pola028.rwl,2004,49.25,20.0667
+"PL07<-read.rwl(""Poland/pola029.rwl"")",Poland/pola029.rwl,2003,49.55,20.1333
+"PL08<-read.rwl(""Poland/pola030.rwl"")",Poland/pola030.rwl,2004,49.5167,19.0333
+"PL09<-read.rwl(""Poland/pola031.rwl"")",Poland/pola031.rwl,1999,49.2167,20.0833
+"PL10<-read.rwl(""Poland/pola032.rwl"")",Poland/pola032.rwl,2000,49.2333,20.0833
+"PL11<-read.rwl(""Poland/pola033.rwl"")",Poland/pola033.rwl,1999,49.2333,20.0833
+"PL12<-read.rwl(""Poland/pola035.rwl"")",Poland/pola035.rwl,2000,49.2333,20.0833
+"PL13<-read.rwl(""Poland/pola037.rwl"")",Poland/pola037.rwl,2003,49.25,20.0167
+"CZ01<-read.rwl(""Czech Republic/czec005.rwl"")",Czech Republic/czec005.rwl,2010,48.6667,14.7
+"CZ02<-read.rwl(""Czech Republic/czec006.rwl"")",Czech Republic/czec006.rwl,2018,50.75,15.66
+"CZ03<-read.rwl(""Czech Republic/czec007.rwl"")",Czech Republic/czec007.rwl,2018,50.73,15.67
+"CZ04<-read.rwl(""Czech Republic/czec010.rwl"")",Czech Republic/czec010.rwl,2018,50.72,15.7
+"CZ05<-read.rwl(""Czech Republic/czec012.rwl"")",Czech Republic/czec012.rwl,2017,48.87,13.79
+"CZ06<-read.rwl(""Czech Republic/czec014.rwl"")",Czech Republic/czec014.rwl,2018,50.079523,17.214055
+"CZ07<-read.rwl(""Czech Republic/czec015.rwl"")",Czech Republic/czec015.rwl,2018,50.850325,14.358207
+"CZ08<-read.rwl(""Czech Republic/czec016.rwl"")",Czech Republic/czec016.rwl,2011,50.203864,16.845659
+"CZ09<-read.rwl(""Czech Republic/czec017.rwl"")",Czech Republic/czec017.rwl,2018,49.203583,13.112284
+"CZ10<-read.rwl(""Czech Republic/czec019.rwl"")",Czech Republic/czec019.rwl,2018,49.79232,15.7547
+"CZ11<-read.rwl(""Czech Republic/czec021.rwl"")",Czech Republic/czec021.rwl,2018,50.043017,13.297917
+"CZ12<-read.rwl(""Czech Republic/czec023.rwl"")",Czech Republic/czec023.rwl,2018,49.136701,13.502261
+"CZ13<-read.rwl(""Czech Republic/czec025.rwl"")",Czech Republic/czec025.rwl,2018,50.756345,15.644769
+"CZ14<-read.rwl(""Czech Republic/czec026.rwl"")",Czech Republic/czec026.rwl,2018,50.889617,14.2598
+"RU01<-read.rwl(""Russia/russ205.rwl"")",Russia/russ205.rwl,2007,66.2758,123.9168
+"RU02<-read.rwl(""Russia/russ207.rwl"")",Russia/russ207.rwl,2007,66.7618,123.3498
+"RU03<-read.rwl(""Russia/russ237.rwl"")",Russia/russ237.rwl,2000,67.8167,60.0167
+"RU04<-read.rwl(""Russia/russ273.rwl"")",Russia/russ273.rwl,2000,58.642,49.294
+"RU05<-read.rwl(""Russia/russ280.rwl"")",Russia/russ280.rwl,2009,64.589,43.176

@@ -1,0 +1,277 @@
+{
+  "xmlId" : "10870",
+  "NOAAStudyId" : "12807",
+  "studyName" : "Wilson - Goliath Str. 2 Regensburg Historical Timbers - PCAB - ITRDB GERM119",
+  "doi" : "https://doi.org/10.25921/8fyk-a174",
+  "uuid" : "5e33cea1-2a97-48cb-8d80-cd4bffadfdbe",
+  "dataPublisher" : "NOAA",
+  "contactInfo" : {
+    "type" : "CONTACT INFORMATION",
+    "shortName" : "DOC/NOAA/NESDIS/NCEI",
+    "longName" : "National Centers for Environmental Information, NESDIS, NOAA, U.S. Department of Commerce ",
+    "address" : "325 Broadway, E/NE31",
+    "city" : "Boulder",
+    "state" : "CO",
+    "postalCode" : "80305-3328",
+    "country" : "USA",
+    "dataCenterUrl" : "https://www.ncei.noaa.gov/products/paleoclimatology",
+    "email" : "paleo@noaa.gov",
+    "phone" : "828-271-4800",
+    "fax" : "303-497-6513",
+    "constraints" : "Please cite original publication, online resource, dataset and publication DOIs (where available), and date accessed when using downloaded data. If there is no publication information, please cite investigator, title, online resource, and date accessed. The appearance of external links associated with a dataset does not constitute endorsement by the Department of Commerce/National Oceanic and Atmospheric Administration of external Web sites or the information, products or services contained therein. For other than authorized activities, the Department of Commerce/NOAA does not exercise any editorial control over the information you may find at these locations. These links are provided consistent with the stated purpose of this Department of Commerce/NOAA Web site."
+  },
+  "dataType" : "TREE RING",
+  "investigators" : "Wilson, R.J.S.",
+  "investigatorDetails" : [ {
+    "firstName" : "Rob",
+    "lastName" : "Wilson",
+    "initials" : "R.J.S.",
+    "orcId" : "0000-0003-4486-8904"
+  } ],
+  "version" : "1.0",
+  "funding" : [ ],
+  "studyNotes" : "Purpose of Collection: \n# Hydroclimatic reconstructions \n# \n# \n# References: \n# Wilson, R.J.S. and W. Elling. 2004. \n# Temporal instabilities of tree-growth/climate response \n# in the Lower Bavarian Forest Region: Implications for \n# dendroclimatic reconstruction. \n# Trees: Structure and Function, 18 (1): 19-28.\n# \n# Wilson, R.J.S., J. Esper, and B.H. Luckman. 2004. \n# Utilising Historical Tree-Ring Data for Dendroclimatology: \n# A Case study from the Bavarian Forest, Germany. \n# Dendrochronologia. 21 (2): 53-68.\n# \n# Wilson, R.J.S., B.H. Luckman, and J. Esper. 2005. \n# A 500-Year Dendroclimatic Reconstruction of Spring/Summer \n# Precipitation from the Lower Bavarian Forest Region, Germany. \n# International Journal of Climatology, 25: 611-630.\n# \n# \n# Notes: \n# Bavarian Forest Region Historical Timbers \n# \n#  NOAA Template Raw Measurements file added 2019-02-05.",
+  "onlineResourceLink" : "https://www.ncei.noaa.gov/access/paleo-search/study/12807",
+  "difMetadataLink" : "http://www1.ncdc.noaa.gov/pub/data/metadata/published/paleo/dif/xml/noaa-tree-12807.xml",
+  "isoMetadataLink" : "http://www1.ncdc.noaa.gov/pub/data/metadata/published/paleo/iso/xml/noaa-tree-12807.xml",
+  "originalSource" : null,
+  "dataTypeInformation" : "https://www.ncei.noaa.gov/products/paleoclimatology/tree-ring",
+  "studyCode" : "GERM119",
+  "scienceKeywords" : [ "drought" ],
+  "reconstruction" : "N",
+  "contributionDate" : "2010-06-23",
+  "entryId" : "noaa-tree-12807",
+  "earliestYearBP" : 465,
+  "mostRecentYearBP" : 372,
+  "earliestYearCE" : 1485,
+  "mostRecentYearCE" : 1578,
+  "publication" : [ {
+    "author" : null,
+    "pubYear" : 2005,
+    "title" : "A 500-Year Dendroclimatic Reconstruction of Spring/Summer  Precipitation from the Lower Bavarian Forest Region, Germany",
+    "journal" : "International Journal of Climatology",
+    "volume" : null,
+    "edition" : null,
+    "issue" : null,
+    "pages" : null,
+    "reportNumber" : null,
+    "citation" : "Wilson, R.J.S., B.H. Luckman, and J. Esper. 2005. \nA 500-Year Dendroclimatic Reconstruction of Spring/Summer \nPrecipitation from the Lower Bavarian Forest Region, Germany. \nInternational Journal of Climatology, 25: 611-630.\n",
+    "type" : "publication",
+    "identifier" : {
+      "type" : "doi",
+      "id" : "10.1002/joc.1150",
+      "url" : "http://dx.doi.org/10.1002/joc.1150"
+    },
+    "abstract" : "This paper presents a 500 year March-August precipitation reconstruction for the Bavarian Forest region of southeast\nGermany based on a composite, well-replicated data set of 676 living and historical tree-ring width series from Norway\nspruce. Two versions of the chronology are developed. The cubic smoothing spline (SPL) chronology, standardized\nwith a fixed 80 year spline function, retains decadal and higher frequency variation. The regional curve standardization\n(RCS) chronology uses regional curve standardization to retain additional lower frequency variation from the same\ndata. Calibration (1879-1978) of these chronologies with March-August precipitation indicates they explain 40% (SPL)\nand 34% (RCS) of the variability in the instrumental precipitation record. The SPL reconstruction models the high frequency\nvariation better, whereas the RCS reconstruction tracks the low-frequency trends more robustly. It suggests\nthat spring-summer precipitation was above the long-term average for the periods 1730-1810 and 1870-2000, about\naverage between 1560 and 1610 and that significantly drier periods occurred during 1510-60, 1610-35, 1660-1730 and\n1830-70. The low-frequency trends of the RCS reconstruction during the 19th century were verified by comparison with a\nregional precipitation series derived from 14 long precipitation records from central Europe. Better verification results were\nobtained using the original (non-homogenized) records over this interval. These results suggest that some low-frequency\nvariability may have been removed during correction of these early records. Periods of synchronous decadal variability\nwere observed between the SPL series and independent dendroclimatic reconstructions from central Europe. The RCS\nreconstruction is the first dendroclimatic precipitation reconstruction in Europe to capture low-frequency information.\nThese long-term trends, however, are difficult to verify owing to the paucity of other proxy precipitation records in\ncentral Europe that portray low-frequency information. Further verification and testing of the RCS reconstruction will\nrequire the development of additional reconstructions from tree-rings (or other proxy data series) that similarly target\nlow-frequency variability.",
+    "pubRank" : "1"
+  } ],
+  "site" : [ {
+    "NOAASiteId" : "52955",
+    "siteName" : "Goliath Str. 2 Regensburg",
+    "siteCode" : null,
+    "mappable" : "Y",
+    "locationName" : "Continent>Europe>Western Europe>Germany>Bavaria",
+    "geo" : {
+      "geoType" : "Feature",
+      "geometry" : {
+        "type" : "POINT",
+        "coordinates" : [ "49.0167", "12.1" ]
+      },
+      "properties" : {
+        "southernmostLatitude" : "49.0167",
+        "northernmostLatitude" : "49.0167",
+        "westernmostLongitude" : "12.1",
+        "easternmostLongitude" : "12.1",
+        "minElevationMeters" : null,
+        "maxElevationMeters" : null
+      }
+    },
+    "paleoData" : [ {
+      "dataTableName" : "GERM119",
+      "NOAADataTableId" : "21140",
+      "earliestYear" : 1485,
+      "mostRecentYear" : 1578,
+      "timeUnit" : "CE",
+      "earliestYearBP" : 465,
+      "mostRecentYearBP" : 372,
+      "earliestYearCE" : 1485,
+      "mostRecentYearCE" : 1578,
+      "coreLengthMeters" : null,
+      "dataTableNotes" : null,
+      "species" : [ {
+        "speciesCode" : "PCAB",
+        "scientificName" : "Picea abies (L.) H. Karst.",
+        "resourceId" : null,
+        "commonName" : [ "Norway spruce" ]
+      } ],
+      "dataFile" : [ {
+        "fileUrl" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/correlation-stats/germ119.txt",
+        "urlDescription" : "Correlation Stats",
+        "linkText" : "germ119.txt",
+        "variables" : [ ],
+        "NOAAKeywords" : [ "earth science>paleoclimate>tree-ring>width>ring width" ]
+      }, {
+        "fileUrl" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ119.rwl",
+        "urlDescription" : "Raw Measurements",
+        "linkText" : "germ119.rwl",
+        "variables" : [ {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "physical property>width>total ring width",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "length unit>millimeter",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : "units are 0.01 mm if end-of-series marker is 999 and 0.001 mm if end-of-series marker is -9999",
+          "cvFormat" : "Numeric",
+          "cvShortName" : null
+        }, {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "age variable>age",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "time unit>age unit>year Common Era",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : null,
+          "cvFormat" : "Numeric",
+          "cvShortName" : null
+        } ],
+        "NOAAKeywords" : [ "earth science>paleoclimate>tree-ring>width>ring width" ]
+      }, {
+        "fileUrl" : "https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/europe/germ119-noaa.rwl",
+        "urlDescription" : "Raw Measurements - NOAA Template File",
+        "linkText" : "germ119-noaa.rwl",
+        "variables" : [ {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "age variable>age",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "time unit>age unit>year Common Era",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : null,
+          "cvFormat" : "Numeric",
+          "cvShortName" : "age_CE"
+        }, {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "physical property>width>total ring width",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "length unit>millimeter",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : "Tree ID: GOL01A; units are 0.01 mm if end-of-series marker is 999 and 0.001 mm if end-of-series marker is -9999",
+          "cvFormat" : "Numeric",
+          "cvShortName" : "GOL01A_raw"
+        }, {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "physical property>width>total ring width",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "length unit>millimeter",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : "Tree ID: GOL02A; units are 0.01 mm if end-of-series marker is 999 and 0.001 mm if end-of-series marker is -9999",
+          "cvFormat" : "Numeric",
+          "cvShortName" : "GOL02A_raw"
+        }, {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "physical property>width>total ring width",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "length unit>millimeter",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : "Tree ID: GOL03A; units are 0.01 mm if end-of-series marker is 999 and 0.001 mm if end-of-series marker is -9999",
+          "cvFormat" : "Numeric",
+          "cvShortName" : "GOL03A_raw"
+        }, {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "physical property>width>total ring width",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "length unit>millimeter",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : "Tree ID: GOL04A; units are 0.01 mm if end-of-series marker is 999 and 0.001 mm if end-of-series marker is -9999",
+          "cvFormat" : "Numeric",
+          "cvShortName" : "GOL04A_raw"
+        }, {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "physical property>width>total ring width",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "length unit>millimeter",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : "Tree ID: GOL05A; units are 0.01 mm if end-of-series marker is 999 and 0.001 mm if end-of-series marker is -9999",
+          "cvFormat" : "Numeric",
+          "cvShortName" : "GOL05A_raw"
+        }, {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "physical property>width>total ring width",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "length unit>millimeter",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : "Tree ID: GOL06A; units are 0.01 mm if end-of-series marker is 999 and 0.001 mm if end-of-series marker is -9999",
+          "cvFormat" : "Numeric",
+          "cvShortName" : "GOL06A_raw"
+        }, {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "physical property>width>total ring width",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "length unit>millimeter",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : "Tree ID: GOL07A; units are 0.01 mm if end-of-series marker is 999 and 0.001 mm if end-of-series marker is -9999",
+          "cvFormat" : "Numeric",
+          "cvShortName" : "GOL07A_raw"
+        }, {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "physical property>width>total ring width",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "length unit>millimeter",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : "Tree ID: GOL08A; units are 0.01 mm if end-of-series marker is 999 and 0.001 mm if end-of-series marker is -9999",
+          "cvFormat" : "Numeric",
+          "cvShortName" : "GOL08A_raw"
+        }, {
+          "cvDataType" : "TREE RING",
+          "cvWhat" : "physical property>width>total ring width",
+          "cvMaterial" : null,
+          "cvError" : null,
+          "cvUnit" : "length unit>millimeter",
+          "cvSeasonality" : null,
+          "cvDetail" : null,
+          "cvMethod" : null,
+          "cvAdditionalInfo" : "Tree ID: GOL09A; units are 0.01 mm if end-of-series marker is 999 and 0.001 mm if end-of-series marker is -9999",
+          "cvFormat" : "Numeric",
+          "cvShortName" : "GOL09A_raw"
+        } ],
+        "NOAAKeywords" : [ "earth science>paleoclimate>tree-ring>width>ring width" ]
+      } ]
+    } ]
+  } ],
+  "reference" : {
+    "pastThesaurusSkos" : "https://www.ncei.noaa.gov/access/paleo-search/skos/past-thesaurus.rdf",
+    "pastThesaurusExplorer" : "https://www.ncei.noaa.gov/access/paleo-search/cvterms",
+    "gcmdKeywordThesaurus" : "https://earthdata.nasa.gov/earth-observation-data/find-data/idn/gcmd-keywords"
+  }
+}
